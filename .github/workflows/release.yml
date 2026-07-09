@@ -17,7 +17,7 @@ jobs:
     if: contains(github.event.head_commit.message, 'release')
     steps:
       - name: Checkout
-        uses: actions/checkout@v7
+        uses: actions/checkout@v6
       - name: Generate release tag
         run: |
           repo_version=$(printf '%o' "$(date -u +"%Y")")$(date +'%Y.%-j').$((`date +%s` % 86400 ))
@@ -28,12 +28,32 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           GH_REPO: ${{ github.repository }}
       - name: Create release
-        uses: ncipollo/release-action@v1.21.0
+        uses: ncipollo/release-action@v1.20.0
         with:
           tag: ${{ env.release_tag }}
           name: ${{ env.release_tag }}
           body: ${{ env.issue_list }}
           
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Determine URLs to purge
+        id: purge_urls
+        run: |
+          baseUrl="https://cdn.jsdelivr.net/gh/${{ github.repository }}@latest"
+          urls=""
+          for f in `find adblock adguard controld dnsmasq domains hosts ips pac rpz share wildcard -name "*.txt" -o -name "*.pac" -o -name "*.json" -type f`; do
+            urls+="${baseUrl}/${f},"
+          done
+          echo "urls=${urls%,*}" >> $GITHUB_OUTPUT
+      - name: Purge CDN cache
+        uses: egad13/purge-jsdelivr-cache@v1.1.0
+        with:
+          url: ${{ steps.purge_urls.outputs.urls }}
+    needs: release
+
   close-issues:
     runs-on: ubuntu-latest
     steps:
@@ -47,48 +67,55 @@ jobs:
           message: "This issue has been fixed in release [${releaseTag}](${releaseUrl})"
     needs: release
 
-  purge:
+  relabel-issues:
     runs-on: ubuntu-latest
-    needs: [release, close-issues]
     steps:
-      - name: Checkout
-        uses: actions/checkout@v7
+      - name: relabel
+        uses: actions/github-script@v8
         with:
-          fetch-depth: 2
+          github-token: ${{ secrets.PAT }}
+          script: |
+            const labelToFind = 'scheduled-next-release';
+            const labelToAdd = 'fixed-pending-release';
+            
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: labelToFind,
+              per_page: 100
+            });
 
-      - name: Determine changed URLs to purge
-        id: purge_urls
-        shell: bash
-        run: |
-          base="https://cdn.jsdelivr.net/gh/${{ github.repository }}@latest"
+            for (const issue of issues) {
+              await github.rest.issues.removeLabel({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                name: labelToFind
+              });
+              
+              await github.rest.issues.addLabels({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                labels: [labelToAdd]
+              });
+            }
+    needs: [release, close-issues]
 
-          mapfile -t files < <(
-            git diff --name-only HEAD^ HEAD -- \
-              adblock adguard controld dnsmasq domains hosts ips rpz share wildcard \
-            | grep -E '\.(txt|pac|json)$' || true
-          )
-
-          if [ "${#files[@]}" -eq 0 ]; then
-            echo "urls=" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-
-          printf 'urls=' >> "$GITHUB_OUTPUT"
-          printf '%s\n' "${files[@]}" | sed "s#^#${base}/#" | paste -sd, - >> "$GITHUB_OUTPUT"
-
-      - name: Wait before CDN purge
-        if: steps.purge_urls.outputs.urls != ''
-        run: sleep 240
-        shell: bash
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: DeMoorJasper/stale@v2.0.1
+      with:
+        repo-token: ${{ github.token }}
+        stale-message: 'This issue has been inactive for 14 days. Please add a comment to keep it open. Otherwise, it will be closed in 7 days.'
+        days-before-stale: 14
+        days-before-close: 7
+        stale-label: 'no-issue-activity'
+        dry-run: 'false'
+    needs: [release, close-issues]
         
-      - name: Purge CDN cache
-        if: steps.purge_urls.outputs.urls != ''
-        uses: hagezi/purge-jsdelivr-cache@v1.1.1
-        continue-on-error: true
-        with:
-          url: ${{ steps.purge_urls.outputs.urls }}
-          attempts: 5
-          
   release-cleanup:
     runs-on: ubuntu-latest
     steps:
@@ -100,7 +127,7 @@ jobs:
           release-drop-tag: true
         env:
           GITHUB_TOKEN: ${{ github.token }}
-    needs: [release, close-issues, purge]
+    needs: release
     
   workflow-cleanup:
     runs-on: ubuntu-latest
@@ -112,4 +139,4 @@ jobs:
           repository: ${{ github.repository }}
           retain_days: 0
           keep_minimum_runs: 0
-    needs: [release, close-issues, purge, release-cleanup]
+    needs: [release, close-issues, release-cleanup]
