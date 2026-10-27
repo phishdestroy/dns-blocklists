@@ -512,13 +512,6 @@
       }
     },
     {
-      "PK": "bgp.tv.pandora.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "bigdata-lbs-pri-c3.alb.xiaomi.com",
       "action": {
         "do": 0,
@@ -1009,7 +1002,7 @@
       }
     },
     {
-      "PK": "h4g3z1-native.xiaomi.web.app",
+      "PK": "h4g3z1-native-xiaomi.web.app",
       "action": {
         "do": 0,
         "status": 1
@@ -1234,13 +1227,6 @@
     },
     {
       "PK": "live.miphone.pandora.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "log-abroad.avlyun.sec.miui.com",
       "action": {
         "do": 0,
         "status": 1

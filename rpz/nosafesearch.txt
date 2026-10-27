@@ -1,18 +1,18 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783103640 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1790977560 28800 3600 259200 3600
   NS  localhost.
 ;
-; Title: HaGeZi's safesearch not supported DNS Blocklist
-; Description: Prevents the use of search engines that do not support safesearch.
+; Title: HaGeZi's safesearch not supported - blocks search engines that skip Safesearch!
+; Description: Blocks search engines that don't support Safesearch.
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-; Expires: 1 day
-; Last modified: 03 Jul 2026 18:34 UTC
-; Version: 2026.0703.1834.29
+; Expires: 8 hours
+; Last modified: 02 Oct 2026 21:46 UTC
+; Version: 2026.1002.2146.20
 ; Syntax: RPZ
-; Number of entries: 412
+; Number of entries: 406
 ;
 search.femboy.ad CNAME .
 *.search.femboy.ad CNAME .
@@ -46,8 +46,6 @@ searx.ch CNAME .
 *.searx.ch CNAME .
 search.kokomo.cloud CNAME .
 *.search.kokomo.cloud CNAME .
-searxzh.cn CNAME .
-*.searxzh.cn CNAME .
 search.0xgingi.com CNAME .
 *.search.0xgingi.com CNAME .
 100searchengines.com CNAME .
@@ -74,8 +72,6 @@ boomle.com CNAME .
 *.boomle.com CNAME .
 dogpile.com CNAME .
 *.dogpile.com CNAME .
-results.excite.com CNAME .
-*.results.excite.com CNAME .
 gibiru.com CNAME .
 *.gibiru.com CNAME .
 gigablast.com CNAME .
@@ -146,6 +142,8 @@ suche.aol.de CNAME .
 *.suche.aol.de CNAME .
 searx.decatec.de CNAME .
 *.searx.decatec.de CNAME .
+searxng.diadz.de CNAME .
+*.searxng.diadz.de CNAME .
 search.dojoro.de CNAME .
 *.search.dojoro.de CNAME .
 eulie.de CNAME .
@@ -188,8 +186,6 @@ search.zina.dev CNAME .
 *.search.zina.dev CNAME .
 searx.divided-by-zero.eu CNAME .
 *.searx.divided-by-zero.eu CNAME .
-librex.myroware.eu CNAME .
-*.librex.myroware.eu CNAME .
 searxng.nicfab.eu CNAME .
 *.searxng.nicfab.eu CNAME .
 nigma.eu CNAME .
@@ -382,8 +378,6 @@ searx.lynnesbian.space CNAME .
 *.searx.lynnesbian.space CNAME .
 searx.space CNAME .
 *.searx.space CNAME .
-searx.stream CNAME .
-*.searx.stream CNAME .
 searx.gnu.style CNAME .
 *.searx.gnu.style CNAME .
 search.funami.tech CNAME .

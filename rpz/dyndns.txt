@@ -1,18 +1,18 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783349280 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1792144740 28800 3600 259200 3600
   NS  localhost.
 ;
-; Title: HaGeZi's DynDNS Blocklist
-; Description: Blocks dynamic DNS services to protect against malicious use in phishing campaigns and others.
+; Title: HaGeZi's DynDNS - guards against dynamic DNS abuse!
+; Description: Blocks dynamic DNS services that get abused for phishing campaigns and other shady activity.
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-; Expires: 1 day
-; Last modified: 06 Jul 2026 14:48 UTC
-; Version: 2026.0706.1448.01
+; Expires: 8 hours
+; Last modified: 16 Oct 2026 09:59 UTC
+; Version: 2026.1016.0959.51
 ; Syntax: RPZ
-; Number of entries: 3034
+; Number of entries: 3082
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -20,6 +20,8 @@ australia.ai CNAME .
 *.australia.ai CNAME .
 play.ai CNAME .
 *.play.ai CNAME .
+aa.am CNAME .
+*.aa.am CNAME .
 progr.am CNAME .
 *.progr.am CNAME .
 h4g3z1-dyndns.web.app CNAME .
@@ -242,8 +244,12 @@ ddns.com.co CNAME .
 *.ddns.com.co CNAME .
 dynamicdns.com.co CNAME .
 *.dynamicdns.com.co CNAME .
+dn3.co CNAME .
+*.dn3.co CNAME .
 dynamicdns.co CNAME .
 *.dynamicdns.co CNAME .
+go2host.co CNAME .
+*.go2host.co CNAME .
 ipq.co CNAME .
 *.ipq.co CNAME .
 mypi.co CNAME .
@@ -252,6 +258,8 @@ n4t.co CNAME .
 *.n4t.co CNAME .
 0000000000000000000000.com CNAME .
 *.0000000000000000000000.com CNAME .
+001www.com CNAME .
+*.001www.com CNAME .
 100mountain.com CNAME .
 *.100mountain.com CNAME .
 10dv.com CNAME .
@@ -280,20 +288,10 @@ n4t.co CNAME .
 *.4mydomain.com CNAME .
 4pu.com CNAME .
 *.4pu.com CNAME .
-77qac.com CNAME .
-*.77qac.com CNAME .
 77uam.com CNAME .
 *.77uam.com CNAME .
-77ynd.com CNAME .
-*.77ynd.com CNAME .
-79ama.com CNAME .
-*.79ama.com CNAME .
-88uan.com CNAME .
-*.88uan.com CNAME .
 88zkt.com CNAME .
 *.88zkt.com CNAME .
-99tac.com CNAME .
-*.99tac.com CNAME .
 abatek.com CNAME .
 *.abatek.com CNAME .
 abmetalmecanica.com CNAME .
@@ -306,8 +304,6 @@ almostmy.com CNAME .
 *.almostmy.com CNAME .
 americanunfinished.com CNAME .
 *.americanunfinished.com CNAME .
-amsprich.com CNAME .
-*.amsprich.com CNAME .
 anal-slavery.com CNAME .
 *.anal-slavery.com CNAME .
 anastasion.com CNAME .
@@ -334,6 +330,8 @@ ask2ask.com CNAME .
 *.ask2ask.com CNAME .
 asuscomm.com CNAME .
 *.asuscomm.com CNAME .
+atholdinginc.com CNAME .
+*.atholdinginc.com CNAME .
 autoipset.com CNAME .
 *.autoipset.com CNAME .
 avandns.com CNAME .
@@ -360,24 +358,18 @@ blogsyte.com CNAME .
 *.blogsyte.com CNAME .
 bloodforthebloodgod.com CNAME .
 *.bloodforthebloodgod.com CNAME .
-bouncers4rent.com CNAME .
-*.bouncers4rent.com CNAME .
 brajkovic.com CNAME .
 *.brajkovic.com CNAME .
 brawlcustommusic.com CNAME .
 *.brawlcustommusic.com CNAME .
 briansagar.com CNAME .
 *.briansagar.com CNAME .
-bsn2bsn.com CNAME .
-*.bsn2bsn.com CNAME .
 bumbleshrimp.com CNAME .
 *.bumbleshrimp.com CNAME .
 burlingtondrywall.com CNAME .
 *.burlingtondrywall.com CNAME .
 byte4byte.com CNAME .
 *.byte4byte.com CNAME .
-canadascastillo.com CNAME .
-*.canadascastillo.com CNAME .
 cbopelousas.com CNAME .
 *.cbopelousas.com CNAME .
 cechire.com CNAME .
@@ -430,8 +422,6 @@ damnserver.com CNAME .
 *.damnserver.com CNAME .
 davidsagar.com CNAME .
 *.davidsagar.com CNAME .
-ddns-dvr.com CNAME .
-*.ddns-dvr.com CNAME .
 ddns5.com CNAME .
 *.ddns5.com CNAME .
 ddnsapp.com CNAME .
@@ -754,6 +744,8 @@ from-wy.com CNAME .
 *.from-wy.com CNAME .
 fxnxs.com CNAME .
 *.fxnxs.com CNAME .
+g2url.com CNAME .
+*.g2url.com CNAME .
 garmanage.com CNAME .
 *.garmanage.com CNAME .
 garypatel.com CNAME .
@@ -1002,6 +994,8 @@ jkub.com CNAME .
 *.jkub.com CNAME .
 jonward.com CNAME .
 *.jonward.com CNAME .
+jump2me.com CNAME .
+*.jump2me.com CNAME .
 jumpingcrab.com CNAME .
 *.jumpingcrab.com CNAME .
 jungleheart.com CNAME .
@@ -1058,6 +1052,8 @@ lovethosetrains.com CNAME .
 *.lovethosetrains.com CNAME .
 lozan.com CNAME .
 *.lozan.com CNAME .
+lundellnet.com CNAME .
+*.lundellnet.com CNAME .
 marieblazek.com CNAME .
 *.marieblazek.com CNAME .
 maurinfor.com CNAME .
@@ -1436,8 +1432,6 @@ tvlinux.com CNAME .
 *.tvlinux.com CNAME .
 twilightparadox.com CNAME .
 *.twilightparadox.com CNAME .
-twsuser.com CNAME .
-*.twsuser.com CNAME .
 tzo.com CNAME .
 *.tzo.com CNAME .
 ufodns.com CNAME .
@@ -1530,6 +1524,8 @@ dyns.cx CNAME .
 *.dyns.cx CNAME .
 it.cx CNAME .
 *.it.cx CNAME .
+metadns.cx CNAME .
+*.metadns.cx CNAME .
 cpsnet.cz CNAME .
 *.cpsnet.cz CNAME .
 pdns.cz CNAME .
@@ -1654,6 +1650,8 @@ leitud.ee CNAME .
 *.10x.es CNAME .
 colegiotorrevilano.es CNAME .
 *.colegiotorrevilano.es CNAME .
+abuser.eu CNAME .
+*.abuser.eu CNAME .
 ddnss.eu CNAME .
 *.ddnss.eu CNAME .
 diskstation.eu CNAME .
@@ -1798,6 +1796,8 @@ pudim.info CNAME .
 *.pudim.info CNAME .
 selfip.info CNAME .
 *.selfip.info CNAME .
+snap2.info CNAME .
+*.snap2.info CNAME .
 squirly.info CNAME .
 *.squirly.info CNAME .
 toh.info CNAME .
@@ -1866,6 +1866,8 @@ allez.la CNAME .
 *.allez.la CNAME .
 project.li CNAME .
 *.project.li CNAME .
+keenetic.link CNAME .
+*.keenetic.link CNAME .
 ax.lt CNAME .
 *.ax.lt CNAME .
 gw.lt CNAME .
@@ -1890,26 +1892,44 @@ dnsfor.me CNAME .
 *.dnsfor.me CNAME .
 dscloud.me CNAME .
 *.dscloud.me CNAME .
+flick2.me CNAME .
+*.flick2.me CNAME .
+flyme2.me CNAME .
+*.flyme2.me CNAME .
 gslb.me CNAME .
 *.gslb.me CNAME .
 h4ck.me CNAME .
 *.h4ck.me CNAME .
 hopto.me CNAME .
 *.hopto.me CNAME .
+host2.me CNAME .
+*.host2.me CNAME .
+hostdns.me CNAME .
+*.hostdns.me CNAME .
 i234.me CNAME .
 *.i234.me CNAME .
+letsgo2.me CNAME .
+*.letsgo2.me CNAME .
 loginto.me CNAME .
 *.loginto.me CNAME .
 myddns.me CNAME .
 *.myddns.me CNAME .
 myds.me CNAME .
 *.myds.me CNAME .
+net2me.me CNAME .
+*.net2me.me CNAME .
+netea.me CNAME .
+*.netea.me CNAME .
 no-ip.me CNAME .
 *.no-ip.me CNAME .
 noip.me CNAME .
 *.noip.me CNAME .
+skipurl.me CNAME .
+*.skipurl.me CNAME .
 soundcast.me CNAME .
 *.soundcast.me CNAME .
+swoop2.me CNAME .
+*.swoop2.me CNAME .
 tcp4.me CNAME .
 *.tcp4.me CNAME .
 webhop.me CNAME .
@@ -2024,6 +2044,8 @@ ddns.net CNAME .
 *.ddns.net CNAME .
 ddns-ip.net CNAME .
 *.ddns-ip.net CNAME .
+dive2.net CNAME .
+*.dive2.net CNAME .
 dns-auth.net CNAME .
 *.dns-auth.net CNAME .
 dns-cloud.net CNAME .
@@ -2044,6 +2066,8 @@ dnsup.net CNAME .
 *.dnsup.net CNAME .
 does-it.net CNAME .
 *.does-it.net CNAME .
+donkeyhot.net CNAME .
+*.donkeyhot.net CNAME .
 dontexist.net CNAME .
 *.dontexist.net CNAME .
 dropfiles.net CNAME .
@@ -2108,6 +2132,10 @@ feste-ip.net CNAME .
 *.feste-ip.net CNAME .
 flashhub.net CNAME .
 *.flashhub.net CNAME .
+flick2.net CNAME .
+*.flick2.net CNAME .
+flyme2.net CNAME .
+*.flyme2.net CNAME .
 freedynamicdns.net CNAME .
 *.freedynamicdns.net CNAME .
 from-az.net CNAME .
@@ -2128,8 +2156,6 @@ ham-radio-op.net CNAME .
 *.ham-radio-op.net CNAME .
 hbmc.net CNAME .
 *.hbmc.net CNAME .
-dyn.dns.he.net CNAME .
-*.dyn.dns.he.net CNAME .
 herodias.net CNAME .
 *.herodias.net CNAME .
 hicam.net CNAME .
@@ -2192,6 +2218,8 @@ mexsipel.net CNAME .
 *.mexsipel.net CNAME .
 migibts.net CNAME .
 *.migibts.net CNAME .
+mikecartwright.net CNAME .
+*.mikecartwright.net CNAME .
 mnode.net CNAME .
 *.mnode.net CNAME .
 mwop.net CNAME .
@@ -2278,6 +2306,8 @@ serveminecraft.net CNAME .
 *.serveminecraft.net CNAME .
 serveo.net CNAME .
 *.serveo.net CNAME .
+slide2.net CNAME .
+*.slide2.net CNAME .
 sline.net CNAME .
 *.sline.net CNAME .
 slyip.net CNAME .
@@ -2342,8 +2372,6 @@ zverovich.net CNAME .
 *.zverovich.net CNAME .
 mil.nf CNAME .
 *.mil.nf CNAME .
-pride.ngo CNAME .
-*.pride.ngo CNAME .
 isamotherfucking.ninja CNAME .
 *.isamotherfucking.ninja CNAME .
 vpnx.nl CNAME .
@@ -2360,6 +2388,8 @@ mine.nu CNAME .
 *.mine.nu CNAME .
 remotecam.nu CNAME .
 *.remotecam.nu CNAME .
+rr.nu CNAME .
+*.rr.nu CNAME .
 cloudns.nz CNAME .
 *.cloudns.nz CNAME .
 3322.org CNAME .
@@ -2370,8 +2400,6 @@ accesscam.org CNAME .
 *.accesscam.org CNAME .
 afraid.org CNAME .
 *.afraid.org CNAME .
-airdns.org CNAME .
-*.airdns.org CNAME .
 allisons.org CNAME .
 *.allisons.org CNAME .
 allowed.org CNAME .
@@ -2414,6 +2442,8 @@ cloudns.org CNAME .
 *.cloudns.org CNAME .
 collegefan.org CNAME .
 *.collegefan.org CNAME .
+coplien.org CNAME .
+*.coplien.org CNAME .
 couchpotatofries.org CNAME .
 *.couchpotatofries.org CNAME .
 csproject.org CNAME .
@@ -2432,6 +2462,8 @@ dhs.org CNAME .
 *.dhs.org CNAME .
 diskstation.org CNAME .
 *.diskstation.org CNAME .
+diyplans.org CNAME .
+*.diyplans.org CNAME .
 dnsalias.org CNAME .
 *.dnsalias.org CNAME .
 dnsdojo.org CNAME .
@@ -2680,12 +2712,16 @@ sheatfish.org CNAME .
 *.sheatfish.org CNAME .
 sheepindonesia.org CNAME .
 *.sheepindonesia.org CNAME .
+skipurl.org CNAME .
+*.skipurl.org CNAME .
 solfa.org CNAME .
 *.solfa.org CNAME .
 spdns.org CNAME .
 *.spdns.org CNAME .
 ssl443.org CNAME .
 *.ssl443.org CNAME .
+stroyexpert.org CNAME .
+*.stroyexpert.org CNAME .
 stuff-4-sale.org CNAME .
 *.stuff-4-sale.org CNAME .
 stuns.org CNAME .
@@ -2746,6 +2782,10 @@ dyndns.pro CNAME .
 *.dyndns.pro CNAME .
 hmao.pro CNAME .
 *.hmao.pro CNAME .
+keenetic.pro CNAME .
+*.keenetic.pro CNAME .
+netcraze.pro CNAME .
+*.netcraze.pro CNAME .
 netcabo.pt CNAME .
 *.netcabo.pt CNAME .
 x443.pw CNAME .
@@ -2792,6 +2832,8 @@ coalnet.ru CNAME .
 *.coalnet.ru CNAME .
 corbina.ru CNAME .
 *.corbina.ru CNAME .
+crazedns.ru CNAME .
+*.crazedns.ru CNAME .
 cw03.ru CNAME .
 *.cw03.ru CNAME .
 dagz.ru CNAME .
@@ -2862,6 +2904,8 @@ rum.si CNAME .
 *.rum.si CNAME .
 ugo.si CNAME .
 *.ugo.si CNAME .
+loophole.site CNAME .
+*.loophole.site CNAME .
 priamaakcia.sk CNAME .
 *.priamaakcia.sk CNAME .
 biz.st CNAME .
@@ -2912,6 +2956,8 @@ ntdll.top CNAME .
 *.ntdll.top CNAME .
 better-than.tv CNAME .
 *.better-than.tv CNAME .
+cybertv.tv CNAME .
+*.cybertv.tv CNAME .
 dyndns.tv CNAME .
 *.dyndns.tv CNAME .
 kaohsiung.tv CNAME .
@@ -3046,5 +3092,7 @@ mypets.ws CNAME .
 *.mypets.ws CNAME .
 crafting.xyz CNAME .
 *.crafting.xyz CNAME .
+zapto.xyz CNAME .
+*.zapto.xyz CNAME .
 project.zone CNAME .
 *.project.zone CNAME .

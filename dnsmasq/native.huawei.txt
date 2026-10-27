@@ -1,21 +1,20 @@
-# Title: HaGeZi's Huawei Tracker DNS Blocklist
-# Description: Blocks Huawei native broadband tracker that track your activity.
+# Title: HaGeZi's Huawei Tracker - blocks built-in trackers from devices, apps, and OSes!
+# Description: Blocks the Huawei native trackers baked into devices, services, and operating systems that quietly track what you do.
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-# Expires: 1 day
-# Last modified: 06 Jul 2026 09:27 UTC
-# Version: 2026.0706.0927.13
+# Expires: 8 hours
+# Last modified: 12 Oct 2026 02:12 UTC
+# Version: 2026.1012.0212.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 132
+# Number of entries: 135
 #
 local=/browsercfg-drcn.cloud.dbankcloud.cn/
 local=/ubacollect-drcn.cloud.dbankcloud.cn/
 local=/metrics-dre.data.dbankcloud.cn/
 local=/metrics1.data.dbankcloud.cn/
 local=/datacollector-dra.dt.dbankcloud.cn/
-local=/datacollector-drcn.dt.dbankcloud.cn/
 local=/datacollector-dre.dt.dbankcloud.cn/
 local=/hisearch-dra.dt.dbankcloud.com/
 local=/hisearch-drcn.dt.dbankcloud.com/
@@ -32,6 +31,8 @@ local=/connect-drru.hispace.dbankcloud.cn/
 local=/connect-drru.hispace.dbankcloud.ru/
 local=/connect-dra.map.dbankcloud.com/
 local=/connect-dre.map.dbankcloud.com/
+local=/ad-drcn.media.dbankcloud.cn/
+local=/ad-drcn.media.dbankcloud.ru/
 local=/adx-dra.op.dbankcloud.com/
 local=/adx-drcn.op.dbankcloud.cn/
 local=/adx-dre.op.dbankcloud.com/
@@ -113,6 +114,7 @@ local=/logservice1.hicloud.com/
 local=/honorsearch-dra.hiboard.hihonorcloud.com/
 local=/honorsearch-drcn.hiboard.hihonorcloud.com/
 local=/honorsearch-dre.hiboard.hihonorcloud.com/
+local=/ads-dra.platform.hihonorcloud.com/
 local=/ads-drcn.platform.hihonorcloud.com/
 local=/ads-dre.platform.hihonorcloud.com/
 local=/ads-drru.platform.hihonorcloud.com/
@@ -126,6 +128,7 @@ local=/dt.hihonorcloud.com/
 local=/grs.hihonorcloud.com/
 local=/ads.cloud.huawei.com/
 local=/ads-drru.cloud.huawei.ru/
+local=/nebula-collector.huawei.com/
 local=/rnd-cbgpas01.huawei.com/
 local=/uba.huaweicloud.com/
 local=/nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com/
@@ -141,4 +144,4 @@ local=/nsp-logservice-weardevice-p51-drcn.obs.cn-north-2.myhuaweicloud.com/
 local=/nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru/
 local=/logserver.nzxcloud.cn/
 local=/logservice.vmall.com/
-local=/h4g3z1-native.huawei.web.app/
+local=/h4g3z1-native-huawei.web.app/

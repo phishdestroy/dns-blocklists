@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783420860 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1793009340 28800 3600 259200 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's The World's Most Abused TLDs
@@ -7,17 +7,15 @@ $TTL 3600
 ; Source: https://www.spamhaus.org/reputation-statistics/gtlds/domains/
 ;         https://radar.cloudflare.com/email-security
 ;         https://trends.netcraft.com/cybercrime/tlds
-;         https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
-;         https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Jul 2026 10:41 UTC
-; Version: 2026.0707.1041.00
+; Last modified: 26 Oct 2026 10:09 UTC
+; Version: 2026.1026.1009.17
 ; Syntax: RPZ
-; Number of latin TLDs: 130/294
+; Number of latin TLDs: 127/294
 ;
 *.actor CNAME .
 *.apartments CNAME .
@@ -32,12 +30,10 @@ $TTL 3600
 *.bond CNAME .
 *.boston CNAME .
 *.boutique CNAME .
-*.builders CNAME .
 *.business CNAME .
 *.cam CNAME .
 *.casino CNAME .
 *.ceo CNAME .
-*.cfd CNAME .
 *.channel CNAME .
 *.charity CNAME .
 *.cheap CNAME .
@@ -59,7 +55,6 @@ $TTL 3600
 *.esq CNAME .
 *.exposed CNAME .
 *.faith CNAME .
-*.family CNAME .
 *.fans CNAME .
 *.financial CNAME .
 *.fishing CNAME .
@@ -71,6 +66,7 @@ $TTL 3600
 *.gives CNAME .
 *.giving CNAME .
 *.golf CNAME .
+*.gq CNAME .
 *.gratis CNAME .
 *.gripe CNAME .
 *.hair CNAME .
@@ -112,7 +108,6 @@ $TTL 3600
 *.ren CNAME .
 *.repair CNAME .
 *.review CNAME .
-*.reviews CNAME .
 *.rich CNAME .
 *.rodeo CNAME .
 *.ryukyu CNAME .

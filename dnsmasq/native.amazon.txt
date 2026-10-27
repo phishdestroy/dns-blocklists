@@ -1,14 +1,14 @@
-# Title: HaGeZi's Amazon Tracker DNS Blocklist
-# Description: Blocks Amazon native broadband tracker that track your activity.
+# Title: HaGeZi's Amazon Tracker - blocks built-in trackers from devices, apps, and OSes!
+# Description: Blocks the Amazon native trackers baked into devices, services, and operating systems that quietly track what you do.
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-# Expires: 1 day
-# Last modified: 08 Jul 2026 17:49 UTC
-# Version: 2026.0708.1749.33
+# Expires: 8 hours
+# Last modified: 23 Oct 2026 21:58 UTC
+# Version: 2026.1023.2158.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 359
+# Number of entries: 368
 #
 local=/3px.axp.amazon-adsystem.com/
 local=/aan.amazon.co.jp/
@@ -51,7 +51,6 @@ local=/aax-fe-sin.amazon-adsystem.com/
 local=/aax-fe.amazon-adsystem.com/
 local=/aax-gamma-us-east.axp.amazon-adsystem.com/
 local=/aax-ott-c2s.amazon-adsystem.com/
-local=/aax-ott-sdk.amazon-adsystem.amazon.com/
 local=/aax-ott-sdk.amazon-adsystem.com/
 local=/aax-ott.amazon-adsystem.amazon.com/
 local=/aax-ott.amazon-adsystem.com/
@@ -79,7 +78,6 @@ local=/aax-us-west-dtb-mobile.amazon-adsystem.com/
 local=/aax-us-west-ott-events.amazon-adsystem.com/
 local=/aax-us-west-ott.amazon-adsystem.com/
 local=/aax-us-west-rtb.amazon-adsystem.com/
-local=/aax-us.amazon-adsystem.amazon.com/
 local=/aax-us.amazon-adsystem.com/
 local=/aax-vx-api-us-east-1.amazon-adsystem.com/
 local=/aax-vx-api-us-west-2.amazon-adsystem.com/
@@ -92,6 +90,7 @@ local=/ads-setu-proxy-eu.amazon.com/
 local=/ads-setu-proxy-fe.amazon.com/
 local=/ads-setu-proxy.amazon.com/
 local=/ads.amazon.com/
+local=/adserver.pubtech.amazon.dev/
 local=/advertising-api-eu.amazon.com/
 local=/advertising.a2z.com/
 local=/advertising.amazon.ae/
@@ -120,6 +119,7 @@ local=/alexa-mobile-analytics-configuration-prod.s3.amazonaws.com/
 local=/alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com/
 local=/alt1-3ps.amazon-adsystem.com/
 local=/api.eu-west-1.aiv-delivery.net/
+local=/api.metrics.us-west-2.iris.apx.amazon.dev/
 local=/api.us-east-1.aiv-delivery.net/
 local=/api.us-west-2.aiv-delivery.net/
 local=/applab-sdk.amazon.com/
@@ -136,8 +136,6 @@ local=/assoc-amazon.jp/
 local=/assoc-msdk-cn.amazon-adsystem.com/
 local=/assoc-msdk-eu.amazon-adsystem.com/
 local=/assoc-msdk-us.amazon-adsystem.com/
-local=/at-beta.amazon-adsystem.com/
-local=/at-gamma-us-east.amazon-adsystem.com/
 local=/at-us-east.amazon-adsystem.com/
 local=/atfe.amazon-adsystem.com/
 local=/atue.amazon-adsystem.com/
@@ -192,7 +190,7 @@ local=/fls-na.amazon.com.br/
 local=/fls-na.amazon.com.mx/
 local=/fls-na.amazon.com/
 local=/forester.a2z.com/
-local=/h4g3z1-native.amazon.web.app/
+local=/h4g3z1-native-amazon.web.app/
 local=/identity.browserapps.amazon.de/
 local=/imdb.amazon-adsystem.com/
 local=/insights.video.a2z.com/
@@ -223,17 +221,20 @@ local=/maws-aax-apse-rtb.amazon-adsystem.com/
 local=/maws-aax-eu-rtb-adx.amazon-adsystem.com/
 local=/maws-aax-eu-rtb.amazon-adsystem.com/
 local=/maws-aax-eu.amazon-adsystem.com/
-local=/maws-aax-fe-sin.amazon-adsystem.com/
 local=/maws-aax-fe.amazon-adsystem.com/
 local=/maws-aax-us-east-rtb-adx.amazon-adsystem.com/
 local=/maws-aax-us-east-rtb.amazon-adsystem.com/
 local=/maws-aax-us-east-test4.amazon-adsystem.com/
 local=/maws-aax-us-east.amazon-adsystem.com/
 local=/maws-aax-us-pdx-rtb.amazon-adsystem.com/
+local=/metrics.eu-central-1.iris.apx.amazon.dev/
+local=/metrics.eu-south-2.iris.apx.amazon.dev/
+local=/metrics.eu-west-1.iris.apx.amazon.dev/
 local=/metrics.media-amazon.com/
+local=/metrics.us-east-1.iris.apx.amazon.dev/
 local=/minerva.devices.a2z.com/
 local=/mobileanalytics.us-east-1.amazonaws.com/
-local=/mshopbugsnag.irm.amazon.dev/
+local=/origin-s.amazon-adsystem.com/
 local=/origin-sq-tungsten-ts.amazon-adsystem.com/
 local=/paa-reporting-advertising.amazon/
 local=/pri1-3ps.amazon-adsystem.com/
@@ -281,17 +282,24 @@ local=/sponsored-ads-eu.amazon.sa/
 local=/sponsored-ads-eu.amazon.se/
 local=/sponsored-ads-fe.amazon-adsystem.com/
 local=/sponsored-ads-na.amazon-adsystem.com/
+local=/sponsored-ads.amazon.ae/
 local=/sponsored-ads.amazon.ca/
 local=/sponsored-ads.amazon.co.jp/
 local=/sponsored-ads.amazon.co.uk/
+local=/sponsored-ads.amazon.co.za/
 local=/sponsored-ads.amazon.com.au/
 local=/sponsored-ads.amazon.com.br/
 local=/sponsored-ads.amazon.com.mx/
+local=/sponsored-ads.amazon.com.tr/
 local=/sponsored-ads.amazon.com/
+local=/sponsored-ads.amazon.eg/
 local=/sponsored-ads.amazon.es/
 local=/sponsored-ads.amazon.fr/
+local=/sponsored-ads.amazon.in.alphionsee.in/
 local=/sponsored-ads.amazon.in/
 local=/sponsored-ads.amazon.it/
+local=/sponsored-ads.amazon.sa/
+local=/sponsored-ads.amazon.sg/
 local=/sq-tungsten-ts-eu.amazon-adsystem.com/
 local=/sq-tungsten-ts-fe.amazon-adsystem.com/
 local=/sq-tungsten-ts.amazon-adsystem.com/
@@ -347,6 +355,7 @@ local=/vfw-us-west-gamma.amazon-adsystem.com/
 local=/vfw-us-west.amazon-adsystem.com/
 local=/vfw-us.amazon-adsystem.com/
 local=/vfw.amazon-adsystem.com/
+local=/vfwm-eu.amazon-adsystem.com/
 local=/vfwm-us-west.amazon-adsystem.com/
 local=/vfwm-us.amazon-adsystem.com/
 local=/vfwm.amazon-adsystem.com/

@@ -616,6 +616,13 @@
       }
     },
     {
+      "PK": "benz.store",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.best",
       "action": {
         "do": 0,
@@ -738,6 +745,13 @@
       "PK": "*.bingo",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "biolink.website",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -896,6 +910,13 @@
       }
     },
     {
+      "PK": "brainworms.lgbt",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "breeze.dating",
       "action": {
         "do": 1,
@@ -1022,6 +1043,13 @@
       }
     },
     {
+      "PK": "cake.cash",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "calckey.world",
       "action": {
         "do": 1,
@@ -1065,6 +1093,13 @@
     },
     {
       "PK": "canva.site",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cape.ninja",
       "action": {
         "do": 1,
         "status": 1
@@ -1211,9 +1246,23 @@
       }
     },
     {
+      "PK": "chaosfunk.name",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.charity",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "chatgpt.site",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -1337,6 +1386,13 @@
       }
     },
     {
+      "PK": "cldev.top",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "cleanmasters.store",
       "action": {
         "do": 1,
@@ -1368,13 +1424,6 @@
       "PK": "*.clothing",
       "action": {
         "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "cloudcdn.monster",
-      "action": {
-        "do": 1,
         "status": 1
       }
     },
@@ -1487,6 +1536,13 @@
       "PK": "*.computer",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "computer.rip",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -1624,6 +1680,13 @@
       }
     },
     {
+      "PK": "crt.name",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "c-r-t.tk",
       "action": {
         "do": 1,
@@ -1660,6 +1723,13 @@
     },
     {
       "PK": "cubari.moe",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "currencyrate.today",
       "action": {
         "do": 1,
         "status": 1
@@ -1730,6 +1800,13 @@
     },
     {
       "PK": "dancewave.online",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "dandelion.events",
       "action": {
         "do": 1,
         "status": 1
@@ -2191,6 +2268,13 @@
       }
     },
     {
+      "PK": "eay.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.eco",
       "action": {
         "do": 0,
@@ -2352,6 +2436,13 @@
       }
     },
     {
+      "PK": "entry.fit",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "enza.fun",
       "action": {
         "do": 1,
@@ -2397,6 +2488,13 @@
       "PK": "*.equipment",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ergomech.store",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -2730,6 +2828,13 @@
       }
     },
     {
+      "PK": "flashscore.ninja",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "flexilead.online",
       "action": {
         "do": 1,
@@ -2863,6 +2968,13 @@
       }
     },
     {
+      "PK": "freedium.cfd",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "freshtorge.shop",
       "action": {
         "do": 1,
@@ -2899,6 +3011,13 @@
     },
     {
       "PK": "funk-dichtungstechnik.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "funtuan.work",
       "action": {
         "do": 1,
         "status": 1
@@ -2955,6 +3074,13 @@
     },
     {
       "PK": "gamesindustry.biz",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "gametoolkit.win",
       "action": {
         "do": 1,
         "status": 1
@@ -3542,6 +3668,13 @@
       }
     },
     {
+      "PK": "hns.family",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "hoes.tube",
       "action": {
         "do": 1,
@@ -3752,13 +3885,6 @@
       }
     },
     {
-      "PK": "inege.gq",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "info-matin.ml",
       "action": {
         "do": 1,
@@ -3878,13 +4004,6 @@
       }
     },
     {
-      "PK": "iqunix.store",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "*.irish",
       "action": {
         "do": 0,
@@ -3914,6 +4033,13 @@
     },
     {
       "PK": "itead.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "item.exchange",
       "action": {
         "do": 1,
         "status": 1
@@ -4004,6 +4130,13 @@
       }
     },
     {
+      "PK": "jpg5.su",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "jpg6.su",
       "action": {
         "do": 1,
@@ -4019,6 +4152,13 @@
     },
     {
       "PK": "j.show",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "js.wiki",
       "action": {
         "do": 1,
         "status": 1
@@ -4278,13 +4418,6 @@
     },
     {
       "PK": "lemmings.world",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "lemmy.fan",
       "action": {
         "do": 1,
         "status": 1
@@ -4662,6 +4795,13 @@
       }
     },
     {
+      "PK": "mainos.lol",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "majblomman.shop",
       "action": {
         "do": 1,
@@ -4693,6 +4833,13 @@
       "PK": "*.management",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mangrove.reviews",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -4803,13 +4950,6 @@
     },
     {
       "PK": "mediaclients.wiki",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "medium.rip",
       "action": {
         "do": 1,
         "status": 1
@@ -4943,6 +5083,13 @@
     },
     {
       "PK": "mint.lgbt",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mintlify.builders",
       "action": {
         "do": 1,
         "status": 1
@@ -5432,6 +5579,13 @@
       }
     },
     {
+      "PK": "norepiy.online",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "noru.top",
       "action": {
         "do": 1,
@@ -5565,6 +5719,20 @@
       }
     },
     {
+      "PK": "oe24cdn.biz",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "oegb-kraken.energy",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "oh.center",
       "action": {
         "do": 1,
@@ -5600,7 +5768,21 @@
       }
     },
     {
+      "PK": "omar-thing.site",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "omg.lol",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "omp.asia",
       "action": {
         "do": 1,
         "status": 1
@@ -5692,6 +5874,13 @@
     },
     {
       "PK": "opf.degree",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "opn.vote",
       "action": {
         "do": 1,
         "status": 1
@@ -6174,6 +6363,13 @@
       }
     },
     {
+      "PK": "postnl.post",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "poyoanon.fyi",
       "action": {
         "do": 1,
@@ -6203,13 +6399,6 @@
     },
     {
       "PK": "pretendo.cc",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "pridegym.fit",
       "action": {
         "do": 1,
         "status": 1
@@ -6440,6 +6629,13 @@
       }
     },
     {
+      "PK": "radio.garden",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "rafael.phd",
       "action": {
         "do": 1,
@@ -6532,6 +6728,13 @@
     },
     {
       "PK": "readme.club",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "realdeals.win",
       "action": {
         "do": 1,
         "status": 1
@@ -6916,6 +7119,13 @@
       }
     },
     {
+      "PK": "schneckenpost.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "schueller.work",
       "action": {
         "do": 1,
@@ -6973,6 +7183,13 @@
     },
     {
       "PK": "searx.space",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "seized.fyi",
       "action": {
         "do": 1,
         "status": 1
@@ -7357,6 +7574,13 @@
       }
     },
     {
+      "PK": "sparepartservice.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "spiegel.work",
       "action": {
         "do": 1,
@@ -7476,13 +7700,6 @@
       }
     },
     {
-      "PK": "strem.bar",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "strem.fun",
       "action": {
         "do": 1,
@@ -7575,6 +7792,13 @@
     },
     {
       "PK": "survivors.wiki",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "swatchgroup.biz",
       "action": {
         "do": 1,
         "status": 1
@@ -7798,6 +8022,13 @@
       }
     },
     {
+      "PK": "thechurch.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "thedesk.top",
       "action": {
         "do": 1,
@@ -7848,6 +8079,13 @@
     },
     {
       "PK": "three60.degree",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "thrown.party",
       "action": {
         "do": 1,
         "status": 1
@@ -7934,6 +8172,13 @@
       "PK": "*.tires",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "tivio.studio",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -8330,6 +8575,13 @@
       }
     },
     {
+      "PK": "vector3d.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.vegas",
       "action": {
         "do": 0,
@@ -8443,6 +8695,13 @@
     },
     {
       "PK": "voi.bar",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "volla.online",
       "action": {
         "do": 1,
         "status": 1
@@ -8814,6 +9073,13 @@
     },
     {
       "PK": "wyborcza.biz",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "x2o.website",
       "action": {
         "do": 1,
         "status": 1
@@ -9765,13 +10031,6 @@
       }
     },
     {
-      "PK": "xn--qubec-csa.tk",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "*.xn--qxa6a",
       "action": {
         "do": 0,
@@ -9961,6 +10220,13 @@
       }
     },
     {
+      "PK": "xpeng.guru",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "xqc.store",
       "action": {
         "do": 1,
@@ -10144,6 +10410,13 @@
     },
     {
       "PK": "zok.pw",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "zonwering.shop",
       "action": {
         "do": 1,
         "status": 1

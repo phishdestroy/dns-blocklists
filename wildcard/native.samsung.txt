@@ -1,14 +1,14 @@
-# Title: HaGeZi's Samsung Tracker DNS Blocklist
-# Description: Blocks Samsung native broadband tracker that track your activity.
+# Title: HaGeZi's Samsung Tracker - blocks built-in trackers from devices, apps, and OSes!
+# Description: Blocks the Samsung native trackers baked into devices, services, and operating systems that quietly track what you do.
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-# Expires: 1 day
-# Last modified: 08 Jul 2026 18:14 UTC
-# Version: 2026.0708.1814.52
+# Expires: 8 hours
+# Last modified: 02 Oct 2026 22:15 UTC
+# Version: 2026.1002.2215.55
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 202
+# Number of entries: 200
 #
 *.samsung-com.112.2o7.net
 *.metric.account-samsung.com
@@ -21,7 +21,6 @@
 *.samsung.bimtrackapp.co
 *.cn-api.mcsvc.samsung.com.cn
 *.smetrics.samsung.com.cn
-*.push.samsungosp.com.cn
 *.samsungott.sora.yoyi.com.cn
 *.fast.samsungsingapore.demdex.net
 *.samsung.demdex.net
@@ -61,7 +60,6 @@
 *.samsung.ecorebates.com
 *.samsung.telemetry.eyeo.com
 *.ehg-samsungusa.hitbox.com
-*.ureca.samsungapps.com.ad.mexnet.de
 *.samsung.com.ssl.sc.omtrdc.net
 *.samsungcard.sc.omtrdc.net
 *.samsungnorthamerica.sc.omtrdc.net
@@ -202,7 +200,7 @@
 *.samsunguk.api.useinsider.com
 *.samsungusa.api.useinsider.com
 *.samsungvn.api.useinsider.com
-*.h4g3z1-native.samsung.web.app
+*.h4g3z1-native-samsung.web.app
 *.moai-dev-samsung.com
 *.qmds-dev-samsung.com
 *.samsungacr.com

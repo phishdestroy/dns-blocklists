@@ -1,29 +1,27 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783534440 43200 3600 259200 3600
+@ SOA localhost. root.localhost. 1790979300 28800 3600 259200 3600
   NS  localhost.
 ;
-; Title: HaGeZi's Samsung Tracker DNS Blocklist
-; Description: Blocks Samsung native broadband tracker that track your activity.
+; Title: HaGeZi's Samsung Tracker - blocks built-in trackers from devices, apps, and OSes!
+; Description: Blocks the Samsung native trackers baked into devices, services, and operating systems that quietly track what you do.
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-; Expires: 1 day
-; Last modified: 08 Jul 2026 18:14 UTC
-; Version: 2026.0708.1814.52
+; Expires: 8 hours
+; Last modified: 02 Oct 2026 22:15 UTC
+; Version: 2026.1002.2215.55
 ; Syntax: RPZ
-; Number of entries: 404
+; Number of entries: 400
 ;
-h4g3z1-native.samsung.web.app CNAME .
-*.h4g3z1-native.samsung.web.app CNAME .
+h4g3z1-native-samsung.web.app CNAME .
+*.h4g3z1-native-samsung.web.app CNAME .
 matomo.samsungsdibs.at CNAME .
 *.matomo.samsungsdibs.at CNAME .
 cn-api.mcsvc.samsung.com.cn CNAME .
 *.cn-api.mcsvc.samsung.com.cn CNAME .
 smetrics.samsung.com.cn CNAME .
 *.smetrics.samsung.com.cn CNAME .
-push.samsungosp.com.cn CNAME .
-*.push.samsungosp.com.cn CNAME .
 samsungott.sora.yoyi.com.cn CNAME .
 *.samsungott.sora.yoyi.com.cn CNAME .
 samsung.bimtrackapp.co CNAME .
@@ -284,8 +282,6 @@ samsungusa.api.useinsider.com CNAME .
 *.samsungusa.api.useinsider.com CNAME .
 samsungvn.api.useinsider.com CNAME .
 *.samsungvn.api.useinsider.com CNAME .
-ureca.samsungapps.com.ad.mexnet.de CNAME .
-*.ureca.samsungapps.com.ad.mexnet.de CNAME .
 samsung-com.112.2o7.net CNAME .
 *.samsung-com.112.2o7.net CNAME .
 samsungcard.data.adobedc.net CNAME .

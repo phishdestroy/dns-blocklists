@@ -1,14 +1,14 @@
-# Title: HaGeZi's Xiaomi Tracker DNS Blocklist
-# Description: Blocks Xiaomi native broadband tracker that track your activity.
+# Title: HaGeZi's Xiaomi Tracker - blocks built-in trackers from devices, apps, and OSes!
+# Description: Blocks the Xiaomi native trackers baked into devices, services, and operating systems that quietly track what you do.
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-# Expires: 1 day
-# Last modified: 26 Jun 2026 19:04 UTC
-# Version: 2026.0626.1904.40
+# Expires: 8 hours
+# Last modified: 27 Sep 2026 20:37 UTC
+# Version: 2026.0927.2037.15
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 347
+# Number of entries: 345
 #
 *.traffic-media.co.uk
 *.mistat.india.xiaomi.com.edgesuite.net
@@ -100,7 +100,6 @@
 *.ip-info.ff.avast.sec.miui.com
 *.streamback.ff.avast.sec.miui.com
 *.cse.avlyun.sec.miui.com
-*.log-abroad.avlyun.sec.miui.com
 *.logupdate.avlyun.sec.miui.com
 *.update.avlyun.sec.miui.com
 *.auth.be.sec.miui.com
@@ -154,7 +153,7 @@
 *.stat.miui.com
 *.testit.miui.com
 *.tracking.miui.com
-*.h4g3z1-native.xiaomi.web.app
+*.h4g3z1-native-xiaomi.web.app
 *.api.ads.xiaomi.com
 *.tracker.ai.xiaomi.com
 *.tracker-preview.ai.xiaomi.com
@@ -277,7 +276,6 @@
 *.pull.mitv.pandora.xiaomi.com
 *.media.pre.pandora.xiaomi.com
 *.bsp.sasdc.pandora.xiaomi.com
-*.bgp.tv.pandora.xiaomi.com
 *.3rdupgrade.pandora.xiaomi.com
 *.appstore.pandora.xiaomi.com
 *.bossadmin.pandora.xiaomi.com

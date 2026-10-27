@@ -1,25 +1,27 @@
-# Title: HaGeZi's Apple Tracker DNS Blocklist
-# Description: Blocks Apple native broadband tracker that track your activity.
+# Title: HaGeZi's Apple Tracker - blocks built-in trackers from devices, apps, and OSes!
+# Description: Blocks the Apple native trackers baked into devices, services, and operating systems that quietly track what you do.
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-# Expires: 1 day
-# Last modified: 03 Jul 2026 18:44 UTC
-# Version: 2026.0703.1844.28
+# Expires: 8 hours
+# Last modified: 17 Oct 2026 18:53 UTC
+# Version: 2026.1017.1853.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 107
+# Number of entries: 110
 #
 local=/cstat.g.aaplimg.com/
 local=/diagassets.g.aaplimg.com/
 local=/cdn-xp-ingest-ab.v.aaplimg.com/
 local=/iphonesubmissions.v.aaplimg.com/
+local=/prod-app-analytics-event-gateway.v.aaplimg.com/
 local=/prod-event-relay-api.v.aaplimg.com/
 local=/prod-event-relay-books-api.v.aaplimg.com/
 local=/prod-event-relay-notes-api.v.aaplimg.com/
 local=/prod-event-relay-sports-api.v.aaplimg.com/
 local=/prod-event-relay-stocks-api.v.aaplimg.com/
 local=/prod-event-relay-weather-api.v.aaplimg.com/
+local=/prod-iwork-events.v.aaplimg.com/
 local=/prod-news-notification-events.v.aaplimg.com/
 local=/securemetrics.v.aaplimg.com/
 local=/securemetrics-cn.v.aaplimg.com/
@@ -27,10 +29,7 @@ local=/securemvt.v.aaplimg.com/
 local=/smoot-feedback.v.aaplimg.com/
 local=/supportmetrics.v.aaplimg.com/
 local=/xp.v.aaplimg.com/
-local=/ab.apple.com.akadns.net/
-local=/diagassets-lb.apple.com.akadns.net/
 local=/diagnostics.apple.com.akadns.net/
-local=/iadcontent-lb.apple.com.akadns.net/
 local=/iadsdk.apple.com.akadns.net/
 local=/idiagnostics.apple.com.akadns.net/
 local=/iphonesubmissions.apple.com.akadns.net/
@@ -38,9 +37,12 @@ local=/radarsubmissions.apple.com.akadns.net/
 local=/partiality.itunes-apple.com.akadns.net/
 local=/searchads.lb-apple.com.akadns.net/
 local=/iad-apple.com.akadns.net/
+local=/aios-otel-collector.g.apple.com/
+local=/app-events.infoapps.apple.com/
 local=/partiality.itunes.apple.com/
 local=/msc-dct-prod.msc.apple.com/
 local=/fbs.smoot.apple.com/
+local=/ads.apple.com/
 local=/advertising.apple.com/
 local=/advp.apple.com/
 local=/analytics-events.apple.com/
@@ -55,6 +57,7 @@ local=/diagnostics.apple.com/
 local=/dz1dt3wqswdezgx4j2ryem5iad.apple.com/
 local=/experiments.apple.com/
 local=/flirfvysba2opz0zmzqs5iuiad.apple.com/
+local=/freeform-events.apple.com/
 local=/graffiti-tags.apple.com/
 local=/iad.apple.com/
 local=/iadcontent.apple.com/
@@ -114,6 +117,6 @@ local=/metrics.icloud.com/
 local=/metrics.mzstatic.com/
 local=/marketing.services.apple/
 local=/beacon.shazam.com/
-local=/h4g3z1-native.apple.web.app/
+local=/h4g3z1-native-apple.web.app/
 local=/applemediaservices.com/
 local=/qwapi.com/

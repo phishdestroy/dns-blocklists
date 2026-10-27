@@ -1,21 +1,20 @@
-# Title: HaGeZi's Huawei Tracker DNS Blocklist
-# Description: Blocks Huawei native broadband tracker that track your activity.
+# Title: HaGeZi's Huawei Tracker - blocks built-in trackers from devices, apps, and OSes!
+# Description: Blocks the Huawei native trackers baked into devices, services, and operating systems that quietly track what you do.
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-# Expires: 1 day
-# Last modified: 06 Jul 2026 09:27 UTC
-# Version: 2026.0706.0927.13
+# Expires: 8 hours
+# Last modified: 12 Oct 2026 02:12 UTC
+# Version: 2026.1012.0212.07
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 132
+# Number of entries: 135
 #
 *.browsercfg-drcn.cloud.dbankcloud.cn
 *.ubacollect-drcn.cloud.dbankcloud.cn
 *.metrics-dre.data.dbankcloud.cn
 *.metrics1.data.dbankcloud.cn
 *.datacollector-dra.dt.dbankcloud.cn
-*.datacollector-drcn.dt.dbankcloud.cn
 *.datacollector-dre.dt.dbankcloud.cn
 *.hisearch-dra.dt.dbankcloud.com
 *.hisearch-drcn.dt.dbankcloud.com
@@ -32,6 +31,8 @@
 *.connect-drru.hispace.dbankcloud.ru
 *.connect-dra.map.dbankcloud.com
 *.connect-dre.map.dbankcloud.com
+*.ad-drcn.media.dbankcloud.cn
+*.ad-drcn.media.dbankcloud.ru
 *.adx-dra.op.dbankcloud.com
 *.adx-drcn.op.dbankcloud.cn
 *.adx-dre.op.dbankcloud.com
@@ -113,6 +114,7 @@
 *.honorsearch-dra.hiboard.hihonorcloud.com
 *.honorsearch-drcn.hiboard.hihonorcloud.com
 *.honorsearch-dre.hiboard.hihonorcloud.com
+*.ads-dra.platform.hihonorcloud.com
 *.ads-drcn.platform.hihonorcloud.com
 *.ads-dre.platform.hihonorcloud.com
 *.ads-drru.platform.hihonorcloud.com
@@ -126,6 +128,7 @@
 *.grs.hihonorcloud.com
 *.ads.cloud.huawei.com
 *.ads-drru.cloud.huawei.ru
+*.nebula-collector.huawei.com
 *.rnd-cbgpas01.huawei.com
 *.uba.huaweicloud.com
 *.nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com
@@ -141,4 +144,4 @@
 *.nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru
 *.logserver.nzxcloud.cn
 *.logservice.vmall.com
-*.h4g3z1-native.huawei.web.app
+*.h4g3z1-native-huawei.web.app

@@ -29,7 +29,28 @@
       }
     },
     {
+      "PK": "ad-drcn.media.dbankcloud.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ad-drcn.media.dbankcloud.ru",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ads.cloud.huawei.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ads-dra.platform.hihonorcloud.com",
       "action": {
         "do": 0,
         "status": 1
@@ -226,13 +247,6 @@
     },
     {
       "PK": "datacollector-dra.dt.dbankcloud.cn",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "datacollector-drcn.dt.dbankcloud.cn",
       "action": {
         "do": 0,
         "status": 1
@@ -547,7 +561,7 @@
       }
     },
     {
-      "PK": "h4g3z1-native.huawei.web.app",
+      "PK": "h4g3z1-native-huawei.web.app",
       "action": {
         "do": 0,
         "status": 1
@@ -800,6 +814,13 @@
     },
     {
       "PK": "metrics.dt.dbankcloud.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "nebula-collector.huawei.com",
       "action": {
         "do": 0,
         "status": 1

@@ -960,6 +960,20 @@
       }
     },
     {
+      "PK": "buy.tinypass.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "c2.piano.io",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "c.amazon-adsystem.com",
       "action": {
         "do": 1,
@@ -968,6 +982,20 @@
     },
     {
       "PK": "cdn.opecloud.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cdn.optimizely.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cdn.tinypass.com",
       "action": {
         "do": 1,
         "status": 1
@@ -1009,7 +1037,21 @@
       }
     },
     {
+      "PK": "dt.adsafeprotected.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "eu.find.api.micloud.xiaomi.net",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "experience.piano.io",
       "action": {
         "do": 1,
         "status": 1
@@ -1107,6 +1149,20 @@
       }
     },
     {
+      "PK": "mediasetitalia01.wt-eu02.net",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "pub.doubleverify.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "s.html-load.com",
       "action": {
         "do": 1,
@@ -1136,6 +1192,13 @@
     },
     {
       "PK": "tags.tiqcdn.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "transurban.sc.omtrdc.net",
       "action": {
         "do": 1,
         "status": 1

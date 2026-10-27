@@ -1,14 +1,14 @@
-# Title: HaGeZi's Xiaomi Tracker DNS Blocklist
-# Description: Blocks Xiaomi native broadband tracker that track your activity.
+# Title: HaGeZi's Xiaomi Tracker - blocks built-in trackers from devices, apps, and OSes!
+# Description: Blocks the Xiaomi native trackers baked into devices, services, and operating systems that quietly track what you do.
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-# Expires: 1 day
-# Last modified: 26 Jun 2026 19:04 UTC
-# Version: 2026.0626.1904.40
+# Expires: 8 hours
+# Last modified: 27 Sep 2026 20:37 UTC
+# Version: 2026.0927.2037.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 347
+# Number of entries: 345
 #
 local=/traffic-media.co.uk/
 local=/mistat.india.xiaomi.com.edgesuite.net/
@@ -100,7 +100,6 @@ local=/auth.ff.avast.sec.miui.com/
 local=/ip-info.ff.avast.sec.miui.com/
 local=/streamback.ff.avast.sec.miui.com/
 local=/cse.avlyun.sec.miui.com/
-local=/log-abroad.avlyun.sec.miui.com/
 local=/logupdate.avlyun.sec.miui.com/
 local=/update.avlyun.sec.miui.com/
 local=/auth.be.sec.miui.com/
@@ -154,7 +153,7 @@ local=/search.miui.com/
 local=/stat.miui.com/
 local=/testit.miui.com/
 local=/tracking.miui.com/
-local=/h4g3z1-native.xiaomi.web.app/
+local=/h4g3z1-native-xiaomi.web.app/
 local=/api.ads.xiaomi.com/
 local=/tracker.ai.xiaomi.com/
 local=/tracker-preview.ai.xiaomi.com/
@@ -277,7 +276,6 @@ local=/live.miphone.pandora.xiaomi.com/
 local=/pull.mitv.pandora.xiaomi.com/
 local=/media.pre.pandora.xiaomi.com/
 local=/bsp.sasdc.pandora.xiaomi.com/
-local=/bgp.tv.pandora.xiaomi.com/
 local=/3rdupgrade.pandora.xiaomi.com/
 local=/appstore.pandora.xiaomi.com/
 local=/bossadmin.pandora.xiaomi.com/

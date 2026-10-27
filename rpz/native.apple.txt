@@ -1,21 +1,21 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783104240 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1792263180 28800 3600 259200 3600
   NS  localhost.
 ;
-; Title: HaGeZi's Apple Tracker DNS Blocklist
-; Description: Blocks Apple native broadband tracker that track your activity.
+; Title: HaGeZi's Apple Tracker - blocks built-in trackers from devices, apps, and OSes!
+; Description: Blocks the Apple native trackers baked into devices, services, and operating systems that quietly track what you do.
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-; Expires: 1 day
-; Last modified: 03 Jul 2026 18:44 UTC
-; Version: 2026.0703.1844.28
+; Expires: 8 hours
+; Last modified: 17 Oct 2026 18:53 UTC
+; Version: 2026.1017.1853.28
 ; Syntax: RPZ
-; Number of entries: 214
+; Number of entries: 220
 ;
-h4g3z1-native.apple.web.app CNAME .
-*.h4g3z1-native.apple.web.app CNAME .
+h4g3z1-native-apple.web.app CNAME .
+*.h4g3z1-native-apple.web.app CNAME .
 cdn-xp-ingest.edge.apple CNAME .
 *.cdn-xp-ingest.edge.apple CNAME .
 marketing.services.apple CNAME .
@@ -34,6 +34,8 @@ cdn-xp-ingest-ab.v.aaplimg.com CNAME .
 *.cdn-xp-ingest-ab.v.aaplimg.com CNAME .
 iphonesubmissions.v.aaplimg.com CNAME .
 *.iphonesubmissions.v.aaplimg.com CNAME .
+prod-app-analytics-event-gateway.v.aaplimg.com CNAME .
+*.prod-app-analytics-event-gateway.v.aaplimg.com CNAME .
 prod-event-relay-api.v.aaplimg.com CNAME .
 *.prod-event-relay-api.v.aaplimg.com CNAME .
 prod-event-relay-books-api.v.aaplimg.com CNAME .
@@ -46,6 +48,8 @@ prod-event-relay-stocks-api.v.aaplimg.com CNAME .
 *.prod-event-relay-stocks-api.v.aaplimg.com CNAME .
 prod-event-relay-weather-api.v.aaplimg.com CNAME .
 *.prod-event-relay-weather-api.v.aaplimg.com CNAME .
+prod-iwork-events.v.aaplimg.com CNAME .
+*.prod-iwork-events.v.aaplimg.com CNAME .
 prod-news-notification-events.v.aaplimg.com CNAME .
 *.prod-news-notification-events.v.aaplimg.com CNAME .
 securemetrics.v.aaplimg.com CNAME .
@@ -60,6 +64,8 @@ supportmetrics.v.aaplimg.com CNAME .
 *.supportmetrics.v.aaplimg.com CNAME .
 xp.v.aaplimg.com CNAME .
 *.xp.v.aaplimg.com CNAME .
+ads.apple.com CNAME .
+*.ads.apple.com CNAME .
 advertising.apple.com CNAME .
 *.advertising.apple.com CNAME .
 advp.apple.com CNAME .
@@ -88,6 +94,10 @@ experiments.apple.com CNAME .
 *.experiments.apple.com CNAME .
 flirfvysba2opz0zmzqs5iuiad.apple.com CNAME .
 *.flirfvysba2opz0zmzqs5iuiad.apple.com CNAME .
+freeform-events.apple.com CNAME .
+*.freeform-events.apple.com CNAME .
+aios-otel-collector.g.apple.com CNAME .
+*.aios-otel-collector.g.apple.com CNAME .
 graffiti-tags.apple.com CNAME .
 *.graffiti-tags.apple.com CNAME .
 iad.apple.com CNAME .
@@ -104,6 +114,8 @@ idiagnostics.apple.com CNAME .
 *.idiagnostics.apple.com CNAME .
 idiagnostics-mdn1.apple.com CNAME .
 *.idiagnostics-mdn1.apple.com CNAME .
+app-events.infoapps.apple.com CNAME .
+*.app-events.infoapps.apple.com CNAME .
 internalcheck.apple.com CNAME .
 *.internalcheck.apple.com CNAME .
 iphonesubmissions.apple.com CNAME .
@@ -180,14 +192,8 @@ qwapi.com CNAME .
 *.qwapi.com CNAME .
 beacon.shazam.com CNAME .
 *.beacon.shazam.com CNAME .
-ab.apple.com.akadns.net CNAME .
-*.ab.apple.com.akadns.net CNAME .
-diagassets-lb.apple.com.akadns.net CNAME .
-*.diagassets-lb.apple.com.akadns.net CNAME .
 diagnostics.apple.com.akadns.net CNAME .
 *.diagnostics.apple.com.akadns.net CNAME .
-iadcontent-lb.apple.com.akadns.net CNAME .
-*.iadcontent-lb.apple.com.akadns.net CNAME .
 iadsdk.apple.com.akadns.net CNAME .
 *.iadsdk.apple.com.akadns.net CNAME .
 idiagnostics.apple.com.akadns.net CNAME .

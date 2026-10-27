@@ -99,13 +99,6 @@
       }
     },
     {
-      "PK": "builders",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "business",
       "action": {
         "do": 0,
@@ -128,13 +121,6 @@
     },
     {
       "PK": "ceo",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "cfd",
       "action": {
         "do": 0,
         "status": 1
@@ -288,13 +274,6 @@
       }
     },
     {
-      "PK": "family",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "fans",
       "action": {
         "do": 0,
@@ -366,6 +345,13 @@
     },
     {
       "PK": "golf",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "gq",
       "action": {
         "do": 0,
         "status": 1
@@ -653,13 +639,6 @@
     },
     {
       "PK": "review",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "reviews",
       "action": {
         "do": 0,
         "status": 1

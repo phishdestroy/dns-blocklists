@@ -15,6 +15,34 @@
       }
     },
     {
+      "PK": "ad-format16-normal-useastred.tiktokv.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ad-format-sg.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ad-format.tiktokv.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ad-format-ttp2.tiktokv.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "adinstantpage16-normal-useastred.tiktokv.eu",
       "action": {
         "do": 0,
@@ -148,6 +176,13 @@
       }
     },
     {
+      "PK": "ads-service.tiktok.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ads-sg.business-tiktok.com",
       "action": {
         "do": 0,
@@ -226,6 +261,13 @@
     },
     {
       "PK": "ad.tiktokv.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ad-union-i18n-api.tos-sg.tiktok-row.org",
       "action": {
         "do": 0,
         "status": 1
@@ -834,6 +876,20 @@
       }
     },
     {
+      "PK": "frontier.us.capcut.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "frontier-us-ttp2.capcutw.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "frontier-va.tiktokv.com",
       "action": {
         "do": 0,
@@ -890,7 +946,7 @@
       }
     },
     {
-      "PK": "h4g3z1-native.tiktok.extended.web.app",
+      "PK": "h4g3z1-native-tiktok-extended.web.app",
       "action": {
         "do": 0,
         "status": 1
@@ -932,6 +988,13 @@
       }
     },
     {
+      "PK": "location-ru.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "location-sg.tiktokv.com",
       "action": {
         "do": 0,
@@ -947,6 +1010,20 @@
     },
     {
       "PK": "location.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "location.tiktokv.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "location.tiktokv.us",
       "action": {
         "do": 0,
         "status": 1
@@ -1471,13 +1548,6 @@
       }
     },
     {
-      "PK": "log53-normal-c-useast1a.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "log58-normal-alisg.tiktokv.com",
       "action": {
         "do": 0,
@@ -1570,6 +1640,48 @@
     },
     {
       "PK": "log.byteoversea.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "log-dr16-normal-no1a.tiktokv.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "log-dr16-normal-useast1a.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "log-dr16-normal-useast5.tiktokv.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "log-dr16-normal-useast8.tiktokv.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "log-dr16-normal-useastred.tiktokv.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "log-dr.tiktokv.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1716,13 +1828,6 @@
       }
     },
     {
-      "PK": "mcs16-normal-no1a.tiktokw.eu.dvaitas.lt",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "mcs16-normal-no1a.tiktokw.eu.edgesuite.net",
       "action": {
         "do": 0,
@@ -1780,13 +1885,6 @@
     },
     {
       "PK": "mcs-ie2.tiktokw.eu",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "mcs-ie2.tiktokw.eu.dvaitas.lt",
       "action": {
         "do": 0,
         "status": 1
@@ -2136,21 +2234,14 @@
       }
     },
     {
-      "PK": "mon16-normal-no1a.tiktokv.eu.dvaitas.lt",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "mon16-normal-no1a.tiktokv.eu.numericable.fr",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "mon16-normal-sg.capcutapi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mon16-normal-sg.capcutapi.com.edgesuite.net",
       "action": {
         "do": 0,
         "status": 1
@@ -2199,7 +2290,14 @@
       }
     },
     {
-      "PK": "mon16-normal-useastred.tiktokv.eu.dvaitas.lt",
+      "PK": "mon16-normal-us-ttp2.capcutapi.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mon16-normal-us-ttp2.capcutapi.us.edgesuite.net",
       "action": {
         "do": 0,
         "status": 1
@@ -2207,6 +2305,13 @@
     },
     {
       "PK": "mon16-normal-us-ttp.capcutapi.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mon16-normal-us-ttp.capcutapi.us.edgesuite.net",
       "action": {
         "do": 0,
         "status": 1
@@ -2374,6 +2479,20 @@
       }
     },
     {
+      "PK": "mon-boot.capcutapi.com.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mon-boot.capcutapi.com.ttdns2.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mon-boot.tiktokv.com",
       "action": {
         "do": 0,
@@ -2402,6 +2521,13 @@
       }
     },
     {
+      "PK": "mon.capcutapi.us.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mon-csj-maliva-ios.byteoversea.com",
       "action": {
         "do": 0,
@@ -2423,13 +2549,6 @@
       }
     },
     {
-      "PK": "mon-i18n.tiktokv.com.dvaitas.lt",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "mon-phx.tiktokv.com",
       "action": {
         "do": 0,
@@ -2445,6 +2564,20 @@
     },
     {
       "PK": "mon-sg.capcutapi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mon-sg.capcutapi.com.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mon-sg.capcutapi.com.ttdns2.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2500,7 +2633,35 @@
       }
     },
     {
+      "PK": "mon-v2-boot.capcutapi.com.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mon-v2-boot.capcutapi.com.ttdns2.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mon-va.byteoversea.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mon-va.capcutapi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mon-va.capcutapi.com.ttdns2.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2543,6 +2704,13 @@
     },
     {
       "PK": "mssdk16-normal-useastred.tiktokw.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mssdk16-normal-us-ttp2.capcutapi.us",
       "action": {
         "do": 0,
         "status": 1
@@ -2969,7 +3137,70 @@
       }
     },
     {
+      "PK": "p16-ttam-sg.ibyteimg.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "p16-ttam.tiktokcdn-us.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "p16-ttam-va.ibyteimg.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "p16-ttam-va.tiktokcdn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "p19-ttam-sg.ibyteimg.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "p19-ttam.tiktokcdn-us.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "p19-ttam-va.ibyteimg.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "p19-ttam-va.tiktokcdn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "pangolin.snssdk.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "pc-mon16-normal-us-ttp2.capcutapi.us",
       "action": {
         "do": 0,
         "status": 1
@@ -2983,6 +3214,13 @@
       }
     },
     {
+      "PK": "pc-mon16-normal-us-ttp.capcutapi.us.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "pc-mon-boot.capcutapi.com",
       "action": {
         "do": 0,
@@ -2990,7 +3228,35 @@
       }
     },
     {
+      "PK": "pc-mon-boot.capcutapi.com.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "pc-mon-boot.capcutapi.com.ttdns2.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "pc-mon-normal-sg.capcutapi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "pc-mon-normal-sg.capcutapi.com.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "pc-mon-normal-sg.capcutapi.com.ttdns2.com",
       "action": {
         "do": 0,
         "status": 1
@@ -3005,6 +3271,20 @@
     },
     {
       "PK": "pc-mon-v2-boot.capcutapi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "pc-mon-v2-boot.capcutapi.com.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "pc-mon-v2-boot.capcutapi.com.ttdns2.com",
       "action": {
         "do": 0,
         "status": 1
@@ -3047,6 +3327,13 @@
     },
     {
       "PK": "rtc-logger.tiktokv.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "rtc-logger-ttp2.tiktokv.us",
       "action": {
         "do": 0,
         "status": 1
@@ -3669,6 +3956,13 @@
       }
     },
     {
+      "PK": "tnc16-normal-us-ttp2.capcutapi.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "tnc16-normal-us-ttp.capcutapi.us",
       "action": {
         "do": 0,
@@ -3887,6 +4181,27 @@
     },
     {
       "PK": "tsearch.snssdk.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ugattribution-i18n.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ugattribution-ru.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ugattribution-sg.tiktokv.com",
       "action": {
         "do": 0,
         "status": 1

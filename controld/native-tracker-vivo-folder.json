@@ -330,6 +330,13 @@
       }
     },
     {
+      "PK": "cl-vcode-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "cname-ali-asia-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
@@ -421,7 +428,35 @@
       }
     },
     {
+      "PK": "co-album-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "co-cota.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "co-domaincfg.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "co-onrt-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "co-ort-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -477,7 +512,21 @@
       }
     },
     {
+      "PK": "co-vcode-or.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "de-gdpr-err-up.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "de-gdpr-vcode-api.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -568,6 +617,13 @@
       }
     },
     {
+      "PK": "eu-st-exappupgrade.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "eu-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
@@ -631,7 +687,7 @@
       }
     },
     {
-      "PK": "h4g3z1-native.vivo.web.app",
+      "PK": "h4g3z1-native-vivo.web.app",
       "action": {
         "do": 0,
         "status": 1
@@ -709,6 +765,13 @@
     },
     {
       "PK": "in-appprt-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "in-cfg-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -869,7 +932,21 @@
       }
     },
     {
+      "PK": "kz-album-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "kz-cname-sin01-bigdata.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "kz-cota.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -918,6 +995,20 @@
       }
     },
     {
+      "PK": "kz-p.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "kz-romsp-unifyconfig.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "kz-st-exappupgrade.vivoglobal.com",
       "action": {
         "do": 0,
@@ -940,6 +1031,20 @@
     },
     {
       "PK": "kz-st-sysupgrade.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "kz-timesync.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "kz-vcode-api.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1101,6 +1206,20 @@
     },
     {
       "PK": "ro-up.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ru-album-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ru-analyzer-appstore.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1

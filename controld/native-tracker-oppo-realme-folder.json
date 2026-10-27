@@ -8,6 +8,34 @@
   },
   "rules": [
     {
+      "PK": "ad-growth-in.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ad-growth-ru.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ad-growth-sg.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adm-smc-cn.heytapmobi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ads-bdapi-my.heytapmobile.com",
       "action": {
         "do": 0,
@@ -30,6 +58,13 @@
     },
     {
       "PK": "ads-bdapi-vn.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ads-cps-in.heytapmobile.com",
       "action": {
         "do": 0,
         "status": 1
@@ -85,6 +120,13 @@
       }
     },
     {
+      "PK": "adx-op-fr-heytapmobilea-a7bbf.fr-w01.cngw.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "adx-op-fr.heytapmobile.com",
       "action": {
         "do": 0,
@@ -114,6 +156,20 @@
     },
     {
       "PK": "adxu-bigo-sg.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adx-u-in.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adx-u-ru.heytapmobile.com",
       "action": {
         "do": 0,
         "status": 1
@@ -205,6 +261,13 @@
     },
     {
       "PK": "api-in.cdo.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "apisnd.heytapmobi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -380,34 +443,6 @@
     },
     {
       "PK": "bsp-di-in.heytapmobile.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "calculator-api-fr.allawnos.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "calculator-api-in.allawnos.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "calculator-api-sg.allawnos.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "calculator-api-us.allawnos.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1436,6 +1471,13 @@
       }
     },
     {
+      "PK": "dc-dragate-sg.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "dc.heytapmobile.com",
       "action": {
         "do": 0,
@@ -1604,6 +1646,13 @@
       }
     },
     {
+      "PK": "file-intl-push.heytapdl.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "finosfin.com",
       "action": {
         "do": 0,
@@ -1709,7 +1758,7 @@
       }
     },
     {
-      "PK": "h4g3z1-native.oppo-realme.web.app",
+      "PK": "h4g3z1-native-oppo-realme.web.app",
       "action": {
         "do": 0,
         "status": 1
@@ -1737,7 +1786,70 @@
       }
     },
     {
+      "PK": "icosa-service-fr-01.allawnos.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "icosa-service-fr-02.allawnos.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "icosa-service-fr-03.allawnos.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "icosa-service-in-01.allawnos.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "icosa-service-in-02.allawnos.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "icosa-service-in-03.allawnos.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "icosa-service-in.allawnos.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "icosa-service-sg-01.allawnos.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "icosa-service-sg-02.allawnos.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "icosa-service-sg-03.allawnos.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1752,13 +1864,6 @@
     },
     {
       "PK": "icosa-service-us.allawnos.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "icosa-sg.coloros.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2675,7 +2780,35 @@
       }
     },
     {
+      "PK": "obus-conf-fr.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "obus-config-cn.heytapmobi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "obus-conf-in.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "obus-conf-sg.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "obus-conf-us.heytapmobile.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2844,6 +2977,13 @@
     },
     {
       "PK": "obus-dcyitai-in.heytapmobi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "obus-dcyitai-sg.heytapmobile.com",
       "action": {
         "do": 0,
         "status": 1
@@ -3060,6 +3200,13 @@
       }
     },
     {
+      "PK": "sea-log-rcv.vansound.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "sidebar-apps-eu.allawnos.com",
       "action": {
         "do": 0,
@@ -3228,7 +3375,28 @@
       }
     },
     {
-      "PK": "wallpaper-service-sg.allawnos.com",
+      "PK": "video-api-fr.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "video-api-gl.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "video-api-in.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "video-api-ru.heytapmobile.com",
       "action": {
         "do": 0,
         "status": 1

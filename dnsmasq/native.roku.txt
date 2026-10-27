@@ -1,15 +1,16 @@
-# Title: HaGeZi's Roku Tracker DNS Blocklist
-# Description: Blocks Roku native broadband tracker that track your activity.
+# Title: HaGeZi's Roku Tracker - blocks built-in trackers from devices, apps, and OSes!
+# Description: Blocks the Roku native trackers baked into devices, services, and operating systems that quietly track what you do.
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-# Expires: 1 day
-# Last modified: 19 Jun 2026 18:39 UTC
-# Version: 2026.0619.1839.47
+# Expires: 8 hours
+# Last modified: 16 Oct 2026 22:09 UTC
+# Version: 2026.1016.2209.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 71
+# Number of entries: 57
 #
+local=/roku.adsmeasurement.com/
 local=/adeng-identity-prod3.bdp.roku.com/
 local=/adeng-looker-bi-oneview-prod-1001.bdp.roku.com/
 local=/adeng-looker-dev-1001.bdp.roku.com/
@@ -30,18 +31,6 @@ local=/ads.gcp.roku.com/
 local=/ad.usw2.qa.ap.int.roku.com/
 local=/ad.qa.ap.int.roku.com/
 local=/logs.qa.ap.int.roku.com/
-local=/ad-eng-bl.use1.prod.rpay.int.roku.com/
-local=/ad-eng-pci-bl.use1.prod.rpay.int.roku.com/
-local=/ad-eng-bl.usw2.prod.rpay.int.roku.com/
-local=/ad-eng-pci-bl.usw2.prod.rpay.int.roku.com/
-local=/ad.prod.rpay.int.roku.com/
-local=/ad-bl.prod.rpay.int.roku.com/
-local=/ad-eng.prod.rpay.int.roku.com/
-local=/ad-eng-pci.prod.rpay.int.roku.com/
-local=/ad-eng-pci-bl.prod.rpay.int.roku.com/
-local=/ad-bl.usw2.staging.rpay.int.roku.com/
-local=/ad.staging.rpay.int.roku.com/
-local=/ad-eng.staging.rpay.int.roku.com/
 local=/advertising.qa.us-east-1.dev.msc.roku.com/
 local=/advertising-qa.us-east-1.dev.msc.roku.com/
 local=/advertising-v3-qa.us-east-1.dev.msc.roku.com/
@@ -51,10 +40,6 @@ local=/advertising.us-east-1.msc.roku.com/
 local=/advertising-v3.us-east-1.msc.roku.com/
 local=/blog-advertising-v2.us-east-1.msc.roku.com/
 local=/blog-advertising.msc.roku.com/
-local=/ad-eng-pci-bl.geoproximity.rpay.roku.com/
-local=/ad-bl.geoproximity.staging.rpay.roku.com/
-local=/ad-eng-bl.geoproximity.staging.rpay.roku.com/
-local=/ad-eng-pci-bl.geoproximity.staging.rpay.roku.com/
 local=/item-tracking.dev.sr.roku.com/
 local=/logs.dev.sr.roku.com/
 local=/traces.dev.sr.roku.com/
@@ -79,5 +64,6 @@ local=/analytics.roku.com/
 local=/cloudservices.roku.com/
 local=/logs.roku.com/
 local=/wwwimg.roku.com/
-local=/h4g3z1-native.roku.web.app/
+local=/ads.rokuapi.net/
+local=/h4g3z1-native-roku.web.app/
 local=/ravm.tv/

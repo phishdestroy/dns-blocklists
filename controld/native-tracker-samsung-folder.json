@@ -358,7 +358,7 @@
       }
     },
     {
-      "PK": "h4g3z1-native.samsung.web.app",
+      "PK": "h4g3z1-native-samsung.web.app",
       "action": {
         "do": 0,
         "status": 1
@@ -520,13 +520,6 @@
     },
     {
       "PK": "prderrordumpssm.samsungcloudsolution.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "push.samsungosp.com.cn",
       "action": {
         "do": 0,
         "status": 1
@@ -1346,13 +1339,6 @@
     },
     {
       "PK": "ureca.samsungapps.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ureca.samsungapps.com.ad.mexnet.de",
       "action": {
         "do": 0,
         "status": 1

@@ -1,14 +1,14 @@
-# Title: HaGeZi's DynDNS Blocklist
-# Description: Blocks dynamic DNS services to protect against malicious use in phishing campaigns and others.
+# Title: HaGeZi's DynDNS - guards against dynamic DNS abuse!
+# Description: Blocks dynamic DNS services that get abused for phishing campaigns and other shady activity.
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-# Expires: 1 day
-# Last modified: 06 Jul 2026 14:48 UTC
-# Version: 2026.0706.1448.01
+# Expires: 8 hours
+# Last modified: 16 Oct 2026 09:59 UTC
+# Version: 2026.1016.0959.51
 # Syntax: Domains (without subdomains)
-# Number of entries: 1517
+# Number of entries: 1541
 #
 dyn.addr.tools
 changeip.co.uk
@@ -19,7 +19,6 @@ ddns.com.br
 ddns.com.co
 dynamicdns.com.co
 winco.com.br
-dyn.dns.he.net
 4040.idv.tw
 ddns.me.uk
 dynamicdns.me.uk
@@ -29,6 +28,7 @@ limit.org.uk
 h4g3z1-dyndns.web.app
 dyndns.za.org
 0000000000000000000000.com
+001www.com
 0rg.us
 0x.no
 100mountain.com
@@ -63,16 +63,13 @@ dyndns.za.org
 4twenty.us
 64-b.it
 688.org
-77qac.com
 77uam.com
-77ynd.com
-79ama.com
-88uan.com
 88zkt.com
-99tac.com
+aa.am
 abatek.com
 abmetalmecanica.com
 abrdns.com
+abuser.eu
 access.ly
 accesscam.org
 acmetoy.com
@@ -80,7 +77,6 @@ adagio.tw
 afraid.org
 agropeople.ru
 aintno.info
-airdns.org
 airlinemeals.net
 albertn.ru
 allez.la
@@ -88,7 +84,6 @@ allisons.org
 allowed.org
 almostmy.com
 americanunfinished.com
-amsprich.com
 anal-slavery.com
 anastasion.com
 aneisa.com
@@ -113,6 +108,7 @@ astrabus.ru
 asuscomm.com
 at-band-camp.net
 ath.cx
+atholdinginc.com
 atlantatruckdrivingschool.us
 auraria.org
 australia.ai
@@ -161,7 +157,6 @@ boblove.org
 boldlygoingnowhere.org
 bot.nu
 bounceme.net
-bouncers4rent.com
 boxathome.net
 brajkovic.com
 brasilia.me
@@ -169,14 +164,12 @@ brawlcustommusic.com
 briansagar.com
 broke-it.net
 brweb.org
-bsn2bsn.com
 bumbleshrimp.com
 burlingtondrywall.com
 buyshouses.net
 byte4byte.com
 cable-modem.org
 camdvr.org
-canadascastillo.com
 casacam.net
 cashit.info
 cbopelousas.com
@@ -237,6 +230,7 @@ compy.ca
 con-ip.com
 conditsis.com
 contepsa.com
+coplien.org
 corbina.ru
 coreytech.com
 couchpotatofries.org
@@ -246,11 +240,13 @@ cpsnet.cz
 crabdance.com
 crackedsidewalks.com
 crafting.xyz
+crazedns.ru
 csproject.org
 cuesinc.com
 cupddns.net
 custom-gaming.net
 cw03.ru
+cybertv.tv
 d-n-s.name
 d2g.biz
 dagz.ru
@@ -266,7 +262,6 @@ ddns.ms
 ddns.name
 ddns.net
 ddns.us
-ddns-dvr.com
 ddns-ip.net
 ddns5.com
 ddnsapp.com
@@ -296,9 +291,12 @@ diskstation.eu
 diskstation.me
 diskstation.org
 ditchyourip.com
+dive2.net
 divx.se
+diyplans.org
 dlinkddns.com
 dmtr.ru
+dn3.co
 dnet.hu
 dnmcoffman.com
 dns.army
@@ -348,6 +346,7 @@ does-it.net
 doesntexist.com
 doesntexist.org
 donhoo.com
+donkeyhot.net
 dontexist.com
 dontexist.net
 dontexist.org
@@ -532,8 +531,12 @@ fivepals.com
 flashhub.net
 flat4free.com
 flazzard.com
+flick2.me
+flick2.net
 flnet.org
 flowergardendaycare.com
+flyme2.me
+flyme2.net
 for-better.biz
 for-more.biz
 for-our.info
@@ -616,6 +619,7 @@ ftpaccess.cc
 ftpserver.biz
 fuettertdasnetz.de
 fxnxs.com
+g2url.com
 gally.jp
 game-host.org
 game-server.cc
@@ -637,6 +641,7 @@ glddns.com
 gleeze.com
 global-instr.us
 gluebank.com
+go2host.co
 golaud.com
 goldcrestcc.com
 golffan.us
@@ -715,7 +720,9 @@ homeunix.org
 homingbeacon.net
 hopto.me
 hopto.org
+host2.me
 host2go.net
+hostdns.me
 hosthampster.com
 hpc.tw
 hs.vc
@@ -870,6 +877,7 @@ jkub.com
 joe.dj
 jomblo.asia
 jonward.com
+jump2me.com
 jumpingcrab.com
 jundy.org
 jungleheart.com
@@ -881,7 +889,9 @@ k22.su
 kanda.ru
 kaohsiung.tv
 kck-saratov.ru
+keenetic.link
 keenetic.name
+keenetic.pro
 keine-panik.net
 kellserve.com
 kicks-ass.net
@@ -909,6 +919,7 @@ leitud.ee
 leitungsen.de
 leivo.org
 lessmiths.com
+letsgo2.me
 level3.net
 lflink.com
 lflinkup.com
@@ -930,11 +941,13 @@ loginto.me
 logisoft-cy.com
 logular.com
 longmusic.com
+loophole.site
 loseyourip.com
 lospenitentes.com
 lostgumball.com
 lovethosetrains.com
 lozan.com
+lundellnet.com
 macrofox.org
 madhacker.biz
 mao.fi
@@ -950,6 +963,7 @@ mein-vigor.de
 melakaboy.com
 merseine.com
 merseine.org
+metadns.cx
 mett.ru
 mexsipel.net
 mgipr.com
@@ -957,6 +971,7 @@ mh-it.com
 midjava.com
 migibts.net
 mikata.ru
+mikecartwright.net
 mil.nf
 mindhackers.org
 mine.bz
@@ -1061,8 +1076,11 @@ neat-url.com
 nerdcamp.net
 nerdpol.ovh
 net-freaks.com
+net2me.me
 netcabo.pt
+netcraze.pro
 netdorm.com
+netea.me
 netlord.de
 netmask.ca
 networkguru.com
@@ -1171,7 +1189,6 @@ possessed.us
 prettyweak.com
 priamaakcia.sk
 pride.moe
-pride.ngo
 privatedns.com
 privatedns.org
 privateimport.jp
@@ -1220,6 +1237,7 @@ route64.de
 routemehome.com
 roxa.org
 rpz.su
+rr.nu
 rtam.net
 rum.si
 run.place
@@ -1305,12 +1323,16 @@ sino.tw
 sitelutions.com
 skc.su
 skies.tw
+skipurl.me
+skipurl.org
 slasdot.com
 sleepless.hk
+slide2.net
 sline.net
 sly.io
 slyip.net
 smelly.cc
+snap2.info
 sne.jp
 socialadhesion.com
 softether.net
@@ -1345,6 +1367,7 @@ stfu-kthx.net
 stocktester.ru
 stoupin.ru
 strangled.net
+stroyexpert.org
 stuff-4-sale.org
 stuff-4-sale.us
 stufftoread.com
@@ -1355,6 +1378,7 @@ sundby.com
 surak.kz
 surfnet.ca
 suroot.com
+swoop2.me
 swtest.ru
 syno-ds.de
 synology-diskstation.de
@@ -1412,7 +1436,6 @@ tunnelbroker.net
 tvlinux.com
 twilightparadox.com
 twodns.de
-twsuser.com
 tzo.com
 ucvradio.cl
 udp64.de
@@ -1518,6 +1541,7 @@ z86.ru
 zaibar.ro
 zanity.net
 zapto.org
+zapto.xyz
 zeitr.ch
 zelslonik.info
 zneth.com

@@ -256,3 +256,24 @@ css-load.com
 8.video-loads.com
 9.video-loads.com
 video-loads.com
+
+# BBC Videos - https://www.bbc.com/video
+pub.doubleverify.com
+cdn.optimizely.com
+
+# CNBC
+# https://github.com/hagezi/dns-blocklists/issues/11042
+buy.tinypass.com
+c2.piano.io
+cdn.tinypass.com
+experience.piano.io
+
+# Adblock-Detection on various sites - e.g. pcwelt.de (Admiral)
+dt.adsafeprotected.com
+
+# Breaks some on-demand/live videos of Mediaset programs from smart TVs
+# Because it is a disguised, popular CNAME tracker, it is not unblocked in the ultimate list.
+mediasetitalia01.wt-eu02.net
+
+# Prevents the Linkt app from launching (Network error).
+transurban.sc.omtrdc.net

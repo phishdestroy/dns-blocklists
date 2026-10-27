@@ -1,14 +1,14 @@
-# Title: HaGeZi's Windows/Office Tracker DNS Blocklist
-# Description: Blocks Windows/Office native broadband tracker that track your activity.
+# Title: HaGeZi's Microsoft Tracker - blocks built-in trackers from devices, apps, and OSes!
+# Description: Blocks the Microsoft native trackers baked into devices, services, and operating systems that quietly track what you do.
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-# Expires: 1 day
-# Last modified: 08 Jul 2026 17:50 UTC
-# Version: 2026.0708.1750.11
+# Expires: 8 hours
+# Last modified: 23 Oct 2026 21:58 UTC
+# Version: 2026.1023.2158.56
 # Syntax: Domains (without subdomains)
-# Number of entries: 389
+# Number of entries: 383
 #
 c-bingapis-com.dual-a-0034.a-msedge.net
 measure.office.com.akamaized.net
@@ -21,7 +21,6 @@ js2.cdn.applicationinsights.io
 js0.tst.applicationinsights.io
 js1.tst.applicationinsights.io
 js2.tst.applicationinsights.io
-api.applicationinsights.azure.cn
 dc.applicationinsights.azure.cn
 dc.applicationinsights.azure.us
 in.applicationinsights.azure.cn
@@ -48,13 +47,8 @@ commerce.bing.com
 g.bing.com
 raka.bing.com
 c.bingapis.com
-exo.nel.measure.office.net.cardano.com
-identity.nel.measure.office.net.cardano.com
-m365cdn.nel.measure.office.net.cardano.com
-spo.nel.measure.office.net.cardano.com
-teams.nel.measure.office.net.cardano.com
-insights.cloud.microsoft
 measure.office.net.edgesuite.net
+westeurope-5.in.applicationinsights.azure.com.fiege.de
 collector.azure.eaglex.ic.gov
 auc-visio-telemetry.officeapps.live.com
 brc-visio-telemetry.officeapps.live.com
@@ -103,12 +97,8 @@ pgteu4-word-telemetry-vip.officeapps.live.com
 pgteu5-excel-telemetry-vip.officeapps.live.com
 pgteu5-powerpoint-telemetry-vip.officeapps.live.com
 pgteu5-word-telemetry-vip.officeapps.live.com
-pgtmx1-excel-telemetry-vip.officeapps.live.com
 pgtmx1-powerpoint-telemetry-vip.officeapps.live.com
 pgtmx1-word-telemetry-vip.officeapps.live.com
-pgtsg1-excel-telemetry-vip.officeapps.live.com
-pgtsg1-powerpoint-telemetry-vip.officeapps.live.com
-pgtsg1-word-telemetry-vip.officeapps.live.com
 pgtus1-excel-telemetry-vip.officeapps.live.com
 pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 pgtus1-word-telemetry-vip.officeapps.live.com
@@ -135,7 +125,6 @@ ppc-word-telemetry.officeapps.live.com
 sgtus1-excel-telemetry-vip.officeapps.live.com
 sgtus1-powerpoint-telemetry-vip.officeapps.live.com
 sgtus1-word-telemetry-vip.officeapps.live.com
-telemetry.officeapps.live.com
 tgtus1-excel-telemetry-vip.officeapps.live.com
 tgtus1-powerpoint-telemetry-vip.officeapps.live.com
 tgtus1-word-telemetry-vip.officeapps.live.com
@@ -153,6 +142,7 @@ outlookads.live.com
 rad.live.com
 ssw.live.com
 watson.live.com
+logs.appsource.microsoft.com
 pipe.aria.microsoft.com
 collector.azure.microsoft.cloud
 track.notif.careersppe.microsoft.com
@@ -165,7 +155,9 @@ vortex-win-sandbox.data.microsoft.com
 api.edgeoffer.microsoft.com
 redir.metaservices.microsoft.com
 track.mp.microsoft.com
+inputsuggestions.msdxcdn.microsoft.com
 watson.officeint.microsoft.com
+feedback.search.microsoft.com
 telem-edge.smartscreen.microsoft.com
 i1.services.social.microsoft.com
 telemetry.urs.microsoft.com
@@ -184,12 +176,13 @@ c1.microsoft.com
 clarity.microsoft.com
 ieonline.microsoft.com
 location.microsoft.com
+measure.microsoft.com
 msadsscale.microsoft.com
 oca.microsoft.com
 rad.microsoft.com
+romeccs.microsoft.com
 spynet2.microsoft.com
 spynetalt.microsoft.com
-tar.microsoft.com
 telecommandsvc.microsoft.com
 telemetry.microsoft.com
 telemetry.microsoft.us
@@ -278,11 +271,12 @@ arc-emea.msn.com
 arc1.msn.com
 arc2.msn.com
 arc3.msn.com
-arc5.msn.com
 arc9.msn.com
 confiant.msn.com
 flex.msn.com
 g00.msn.com
+h1.msn.com
+h2.msn.com
 h6.msn.com
 mobileads.msn.com
 mobileleads.msn.com
@@ -337,23 +331,23 @@ ir-tracking.trafficmanager.net
 irreverselookuptm.trafficmanager.net
 ism-telemetry.trafficmanager.net
 legacywatson.trafficmanager.net
-o365diagtelemetry.trafficmanager.net
 office-events-data.trafficmanager.net
 oms-analytics.trafficmanager.net
+partnerfraudevents.trafficmanager.net
 pixel-sync.trafficmanager.net
 self-events-data.trafficmanager.net
 ssp-prod-eastus-nonmutt.trafficmanager.net
 stats-partner.trafficmanager.net
 teams-events-data.trafficmanager.net
 telemetry-lcp.trafficmanager.net
-tenmax-ads.trafficmanager.net
 tm-analytics-pr.trafficmanager.net
 tm-enrollment-telemetry-datacore.trafficmanager.net
 us-mesh-events-data-leafs.trafficmanager.net
 vstelemetry.trafficmanager.net
 win-global-asimov-leafs-events-data.trafficmanager.net
+wttwebsiteprodapi-liveevents.trafficmanager.net
 dc.services.visualstudio.com
-h4g3z1-native.winoffice.web.app
+h4g3z1-native-winoffice.web.app
 ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
 eaus2watcab01.blob.core.windows.net
@@ -378,13 +372,13 @@ citrixtelemetryeh-alias.servicebus.windows.net
 citrixtelemetryeheu.servicebus.windows.net
 citrixtelemetryeheu-alias.servicebus.windows.net
 ehtelemetrystaging-alias.servicebus.windows.net
-ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
 hme-live-loganalytics-namespace.servicebus.windows.net
 hme-uat-loganalytics-namespace.servicebus.windows.net
 kg-legacy-analytics.servicebus.windows.net
 licensingtelemetry-prod.servicebus.windows.net
 nexxtv-events.servicebus.windows.net
 ppm-licensingtelemetry.servicebus.windows.net
+prd-qlik-telemetry.servicebus.windows.net
 prod-eh-v1-analytics.servicebus.windows.net
 prod-eventhub-analytics.servicebus.windows.net
 production-jobactivity-analytics.servicebus.windows.net

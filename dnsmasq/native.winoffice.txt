@@ -1,14 +1,14 @@
-# Title: HaGeZi's Windows/Office Tracker DNS Blocklist
-# Description: Blocks Windows/Office native broadband tracker that track your activity.
+# Title: HaGeZi's Microsoft Tracker - blocks built-in trackers from devices, apps, and OSes!
+# Description: Blocks the Microsoft native trackers baked into devices, services, and operating systems that quietly track what you do.
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-# Expires: 1 day
-# Last modified: 08 Jul 2026 17:50 UTC
-# Version: 2026.0708.1750.11
+# Expires: 8 hours
+# Last modified: 23 Oct 2026 21:58 UTC
+# Version: 2026.1023.2158.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 389
+# Number of entries: 383
 #
 local=/c-bingapis-com.dual-a-0034.a-msedge.net/
 local=/measure.office.com.akamaized.net/
@@ -21,7 +21,6 @@ local=/js2.cdn.applicationinsights.io/
 local=/js0.tst.applicationinsights.io/
 local=/js1.tst.applicationinsights.io/
 local=/js2.tst.applicationinsights.io/
-local=/api.applicationinsights.azure.cn/
 local=/dc.applicationinsights.azure.cn/
 local=/dc.applicationinsights.azure.us/
 local=/in.applicationinsights.azure.cn/
@@ -48,13 +47,8 @@ local=/commerce.bing.com/
 local=/g.bing.com/
 local=/raka.bing.com/
 local=/c.bingapis.com/
-local=/exo.nel.measure.office.net.cardano.com/
-local=/identity.nel.measure.office.net.cardano.com/
-local=/m365cdn.nel.measure.office.net.cardano.com/
-local=/spo.nel.measure.office.net.cardano.com/
-local=/teams.nel.measure.office.net.cardano.com/
-local=/insights.cloud.microsoft/
 local=/measure.office.net.edgesuite.net/
+local=/westeurope-5.in.applicationinsights.azure.com.fiege.de/
 local=/collector.azure.eaglex.ic.gov/
 local=/auc-visio-telemetry.officeapps.live.com/
 local=/brc-visio-telemetry.officeapps.live.com/
@@ -103,12 +97,8 @@ local=/pgteu4-word-telemetry-vip.officeapps.live.com/
 local=/pgteu5-excel-telemetry-vip.officeapps.live.com/
 local=/pgteu5-powerpoint-telemetry-vip.officeapps.live.com/
 local=/pgteu5-word-telemetry-vip.officeapps.live.com/
-local=/pgtmx1-excel-telemetry-vip.officeapps.live.com/
 local=/pgtmx1-powerpoint-telemetry-vip.officeapps.live.com/
 local=/pgtmx1-word-telemetry-vip.officeapps.live.com/
-local=/pgtsg1-excel-telemetry-vip.officeapps.live.com/
-local=/pgtsg1-powerpoint-telemetry-vip.officeapps.live.com/
-local=/pgtsg1-word-telemetry-vip.officeapps.live.com/
 local=/pgtus1-excel-telemetry-vip.officeapps.live.com/
 local=/pgtus1-powerpoint-telemetry-vip.officeapps.live.com/
 local=/pgtus1-word-telemetry-vip.officeapps.live.com/
@@ -135,7 +125,6 @@ local=/ppc-word-telemetry.officeapps.live.com/
 local=/sgtus1-excel-telemetry-vip.officeapps.live.com/
 local=/sgtus1-powerpoint-telemetry-vip.officeapps.live.com/
 local=/sgtus1-word-telemetry-vip.officeapps.live.com/
-local=/telemetry.officeapps.live.com/
 local=/tgtus1-excel-telemetry-vip.officeapps.live.com/
 local=/tgtus1-powerpoint-telemetry-vip.officeapps.live.com/
 local=/tgtus1-word-telemetry-vip.officeapps.live.com/
@@ -153,6 +142,7 @@ local=/outlookads.live.com/
 local=/rad.live.com/
 local=/ssw.live.com/
 local=/watson.live.com/
+local=/logs.appsource.microsoft.com/
 local=/pipe.aria.microsoft.com/
 local=/collector.azure.microsoft.cloud/
 local=/track.notif.careersppe.microsoft.com/
@@ -165,7 +155,9 @@ local=/vortex-win-sandbox.data.microsoft.com/
 local=/api.edgeoffer.microsoft.com/
 local=/redir.metaservices.microsoft.com/
 local=/track.mp.microsoft.com/
+local=/inputsuggestions.msdxcdn.microsoft.com/
 local=/watson.officeint.microsoft.com/
+local=/feedback.search.microsoft.com/
 local=/telem-edge.smartscreen.microsoft.com/
 local=/i1.services.social.microsoft.com/
 local=/telemetry.urs.microsoft.com/
@@ -184,12 +176,13 @@ local=/c1.microsoft.com/
 local=/clarity.microsoft.com/
 local=/ieonline.microsoft.com/
 local=/location.microsoft.com/
+local=/measure.microsoft.com/
 local=/msadsscale.microsoft.com/
 local=/oca.microsoft.com/
 local=/rad.microsoft.com/
+local=/romeccs.microsoft.com/
 local=/spynet2.microsoft.com/
 local=/spynetalt.microsoft.com/
-local=/tar.microsoft.com/
 local=/telecommandsvc.microsoft.com/
 local=/telemetry.microsoft.com/
 local=/telemetry.microsoft.us/
@@ -278,11 +271,12 @@ local=/arc-emea.msn.com/
 local=/arc1.msn.com/
 local=/arc2.msn.com/
 local=/arc3.msn.com/
-local=/arc5.msn.com/
 local=/arc9.msn.com/
 local=/confiant.msn.com/
 local=/flex.msn.com/
 local=/g00.msn.com/
+local=/h1.msn.com/
+local=/h2.msn.com/
 local=/h6.msn.com/
 local=/mobileads.msn.com/
 local=/mobileleads.msn.com/
@@ -337,23 +331,23 @@ local=/ir-tracking.trafficmanager.net/
 local=/irreverselookuptm.trafficmanager.net/
 local=/ism-telemetry.trafficmanager.net/
 local=/legacywatson.trafficmanager.net/
-local=/o365diagtelemetry.trafficmanager.net/
 local=/office-events-data.trafficmanager.net/
 local=/oms-analytics.trafficmanager.net/
+local=/partnerfraudevents.trafficmanager.net/
 local=/pixel-sync.trafficmanager.net/
 local=/self-events-data.trafficmanager.net/
 local=/ssp-prod-eastus-nonmutt.trafficmanager.net/
 local=/stats-partner.trafficmanager.net/
 local=/teams-events-data.trafficmanager.net/
 local=/telemetry-lcp.trafficmanager.net/
-local=/tenmax-ads.trafficmanager.net/
 local=/tm-analytics-pr.trafficmanager.net/
 local=/tm-enrollment-telemetry-datacore.trafficmanager.net/
 local=/us-mesh-events-data-leafs.trafficmanager.net/
 local=/vstelemetry.trafficmanager.net/
 local=/win-global-asimov-leafs-events-data.trafficmanager.net/
+local=/wttwebsiteprodapi-liveevents.trafficmanager.net/
 local=/dc.services.visualstudio.com/
-local=/h4g3z1-native.winoffice.web.app/
+local=/h4g3z1-native-winoffice.web.app/
 local=/ceuswatcab01.blob.core.windows.net/
 local=/ceuswatcab02.blob.core.windows.net/
 local=/eaus2watcab01.blob.core.windows.net/
@@ -378,13 +372,13 @@ local=/citrixtelemetryeh-alias.servicebus.windows.net/
 local=/citrixtelemetryeheu.servicebus.windows.net/
 local=/citrixtelemetryeheu-alias.servicebus.windows.net/
 local=/ehtelemetrystaging-alias.servicebus.windows.net/
-local=/ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net/
 local=/hme-live-loganalytics-namespace.servicebus.windows.net/
 local=/hme-uat-loganalytics-namespace.servicebus.windows.net/
 local=/kg-legacy-analytics.servicebus.windows.net/
 local=/licensingtelemetry-prod.servicebus.windows.net/
 local=/nexxtv-events.servicebus.windows.net/
 local=/ppm-licensingtelemetry.servicebus.windows.net/
+local=/prd-qlik-telemetry.servicebus.windows.net/
 local=/prod-eh-v1-analytics.servicebus.windows.net/
 local=/prod-eventhub-analytics.servicebus.windows.net/
 local=/production-jobactivity-analytics.servicebus.windows.net/

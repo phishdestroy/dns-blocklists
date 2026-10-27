@@ -1,14 +1,14 @@
-# Title: HaGeZi's safesearch not supported DNS Blocklist
-# Description: Prevents the use of search engines that do not support safesearch.
+# Title: HaGeZi's safesearch not supported - blocks search engines that skip Safesearch!
+# Description: Blocks search engines that don't support Safesearch.
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-# Expires: 1 day
-# Last modified: 03 Jul 2026 18:34 UTC
-# Version: 2026.0703.1834.29
+# Expires: 8 hours
+# Last modified: 02 Oct 2026 21:46 UTC
+# Version: 2026.1002.2146.20
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 206
+# Number of entries: 203
 #
 *.search.0xcb.dev
 *.search.0xgingi.com
@@ -50,6 +50,7 @@
 *.search.demoniak.ch
 *.librex.devol.it
 *.searx.devol.it
+*.searxng.diadz.de
 *.search.disroot.org
 *.searx.divided-by-zero.eu
 *.search.dojoro.de
@@ -60,7 +61,6 @@
 *.searx.ericaftereric.top
 *.search.ethibox.fr
 *.searx.everdot.org
-*.results.excite.com
 *.search.fascinated.cc
 *.search.femboy.ad
 *.searx.feneas.org
@@ -92,7 +92,6 @@
 *.search.minus27315.dev
 *.search.modalogi.com
 *.searx.monicz.pl
-*.librex.myroware.eu
 *.searx.nakhan.net
 *.search.nebulacentre.net
 *.searx.netzspielplatz.de
@@ -203,11 +202,9 @@
 *.searx.ru
 *.searx.si
 *.searx.space
-*.searx.stream
 *.searx.work
 *.searx.xyz
 *.searxng.biz
-*.searxzh.cn
 *.skyn3t.in
 *.suchfeuer.de
 *.webcrawler.com

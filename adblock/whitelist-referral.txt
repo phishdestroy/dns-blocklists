@@ -27,6 +27,7 @@
 @@||7eer.net^
 @@||8-aclk.net^
 @@||9-aclk.net^
+@@||a.partner-versicherung.de^
 @@||a.slashdotmedia.com^
 @@||a1.adform.net^
 @@||a9.com^
@@ -53,6 +54,7 @@
 @@||aax-eu.amazon.pl^
 @@||aax-eu.amazon.sa^
 @@||aax-eu.amazon.se^
+@@||aax-events-*.axp.amazon-adsystem.com^
 @@||aax-fe-retail-direct.amazon-adsystem.com^
 @@||aax-fe.amazon.co.jp^
 @@||aax-fe.amazon.com.au^
@@ -80,6 +82,8 @@
 @@||ad.doubleclick.net^
 @@||ad.dyntracker.de^
 @@||ad.lifesight.io^
+@@||ad.trafficgate.net^
+@@||ad2.trafficgate.net^
 @@||adaxxcloud.com^
 @@||adfoc.us^
 @@||adform.com^
@@ -144,6 +148,7 @@
 @@||apmebf.com^
 @@||apms5.com^
 @@||aporasal.net^
+@@||app*.outreach.io^
 @@||app*.salesmanago.pl^
 @@||app.*.adjust.com^
 @@||app.adjust.cn^
@@ -185,6 +190,7 @@
 @@||aylink.co^
 @@||banners.livepartners.com^
 @@||banners.netbet.gr^
+@@||bapi*.moengage.com^
 @@||bcp.crwdcntrl.net^
 @@||bdash-tracking.com^
 @@||beacon.bcn.to^
@@ -211,12 +217,14 @@
 @@||c*.piano.io^
 @@||c.apple.com^
 @@||c.hubz.pl^
+@@||c.kakaku.com^
 @@||c.msn.com^
 @@||c.neqty.net^
 @@||c.nexinsight.com.ua^
 @@||c.office.com^
 @@||c.trackmytarget.com^
 @@||c.webengage.com^
+@@||callback.api.qgraph.io^
 @@||campaign.adobe.com^
 @@||campaign.aliexpress.com^
 @@||cc-dt.com^
@@ -231,14 +239,15 @@
 @@||cj.mplxtms.com^
 @@||cjads.com^
 @@||ck.hdm3.in^
+@@||cl*.exct.net^
 @@||cl.adosiz.net^
-@@||cl.exct.net^
 @@||clc.wargaming.net^
 @@||clck-*.clickpatrol.com^
 @@||clck.ru^
 @@||clck.wargaming.net^
 @@||clck.yandex.ru^
 @@||clckptrl.com^
+@@||clcktrck.com^
 @@||click*.redbrain.com^
 @@||click*.taobao.com^
 @@||click-tracking.klarna.net^
@@ -267,6 +276,7 @@
 @@||click.email.newegg.com^
 @@||click.email.sonos.com^
 @@||click.emcom.bankofamerica.com^
+@@||click.esky.com^
 @@||click.fidelityinvestments.com^
 @@||click.figma.com^
 @@||click.holidayinnclubemail.com^
@@ -359,6 +369,8 @@
 @@||d.hodes.com^
 @@||data.digital.costco.ca^
 @@||data.digital.costco.com^
+@@||data.email.philips-hue.com^
+@@||data.email.tangerine.ca^
 @@||dct.klaviyodns.com^
 @@||dealabs.digidip.net^
 @@||deeplink.page^
@@ -523,6 +535,7 @@
 @@||links.email.crunchbase.com^
 @@||links.iterable.com^
 @@||links.mkt*.net^
+@@||linksaffiliate.com^
 @@||linksmail.geosolinc.com^
 @@||linkspasson.com^
 @@||linksredirect.com^
@@ -560,6 +573,7 @@
 @@||metric.picodi.com^
 @@||mg.mail.notion.so^
 @@||micpn.com^
+@@||mjt.lu^
 @@||mkto-*.com^
 @@||mktoweb.com^
 @@||mmtro.com^
@@ -593,6 +607,7 @@
 @@||ojrq.net^
 @@||onboard.triptease.io^
 @@||one.impact-ad.jp^
+@@||onelink.appsflyersdk.com^
 @@||onelink.me^
 @@||onelnk.com^
 @@||onenetworkdirect.net^
@@ -742,6 +757,7 @@
 @@||t.6sc.co^
 @@||t.adcell.com^
 @@||t.afi-b.com^
+@@||t.ajump.link^
 @@||t.cfjump.com^
 @@||t.clickwise.net^
 @@||t.co^
@@ -777,6 +793,7 @@
 @@||tkqlhce.com^
 @@||tm.attrxs.de^
 @@||tm.simptrack.com^
+@@||to.klatsa.nl^
 @@||tp-emea.exactag.com^
 @@||tr.apsis.one^
 @@||tr.line.me^
@@ -790,6 +807,7 @@
 @@||track*.engagelab.email^
 @@||track*.sendcloud.net^
 @@||track*.webgains.team^
+@@||track-eu.adform.net^
 @@||track.*.sendlayer.net^
 @@||track.addtocart.today^
 @@||track.adform.net^
@@ -818,6 +836,7 @@
 @@||track.sendlanedelivery.com^
 @@||track.shoparize.com^
 @@||track.smtp2go.net^
+@@||track.stoqapp.com^
 @@||track.superdry.com^
 @@||track.tenjin.io^
 @@||track.tnm.de^
@@ -846,6 +865,7 @@
 @@||tracking.bol.com^
 @@||tracking.cashkaro.com^
 @@||tracking.delupe.net^
+@@||tracking.emaillabs.net.pl^
 @@||tracking.ftmo.com^
 @@||tracking.inflection.io^
 @@||tracking.mailerswift.app^

@@ -225,13 +225,6 @@
       }
     },
     {
-      "PK": "api.applicationinsights.azure.cn",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "api.edgeoffer.microsoft.com",
       "action": {
         "do": 0,
@@ -268,13 +261,6 @@
     },
     {
       "PK": "arc3.msn.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "arc5.msn.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1128,7 +1114,7 @@
       }
     },
     {
-      "PK": "exo.nel.measure.office.net.cardano.com",
+      "PK": "feedback.search.microsoft.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1143,13 +1129,6 @@
     },
     {
       "PK": "ffc-word-telemetry.officeapps.live.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net",
       "action": {
         "do": 0,
         "status": 1
@@ -1219,7 +1198,21 @@
       }
     },
     {
-      "PK": "h4g3z1-native.winoffice.web.app",
+      "PK": "h1.msn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "h2.msn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "h4g3z1-native-winoffice.web.app",
       "action": {
         "do": 0,
         "status": 1
@@ -1255,13 +1248,6 @@
     },
     {
       "PK": "i1.services.social.microsoft.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "identity.nel.measure.office.net.cardano.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1338,7 +1324,7 @@
       }
     },
     {
-      "PK": "insights.cloud.microsoft",
+      "PK": "inputsuggestions.msdxcdn.microsoft.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1492,7 +1478,14 @@
       }
     },
     {
-      "PK": "m365cdn.nel.measure.office.net.cardano.com",
+      "PK": "logs.appsource.microsoft.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "measure.microsoft.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1604,13 +1597,6 @@
       }
     },
     {
-      "PK": "o365diagtelemetry.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "oca.microsoft.com",
       "action": {
         "do": 0,
@@ -1640,6 +1626,13 @@
     },
     {
       "PK": "o.xbox.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "partnerfraudevents.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1
@@ -1814,13 +1807,6 @@
       }
     },
     {
-      "PK": "pgtmx1-excel-telemetry-vip.officeapps.live.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "pgtmx1-powerpoint-telemetry-vip.officeapps.live.com",
       "action": {
         "do": 0,
@@ -1829,27 +1815,6 @@
     },
     {
       "PK": "pgtmx1-word-telemetry-vip.officeapps.live.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "pgtsg1-excel-telemetry-vip.officeapps.live.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "pgtsg1-powerpoint-telemetry-vip.officeapps.live.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "pgtsg1-word-telemetry-vip.officeapps.live.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2073,6 +2038,13 @@
       }
     },
     {
+      "PK": "prd-qlik-telemetry.servicebus.windows.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "preview.msn.com",
       "action": {
         "do": 0,
@@ -2178,6 +2150,13 @@
       }
     },
     {
+      "PK": "romeccs.microsoft.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "sam.msn.com",
       "action": {
         "do": 0,
@@ -2214,13 +2193,6 @@
     },
     {
       "PK": "sgtus1-word-telemetry-vip.officeapps.live.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "spo.nel.measure.office.net.cardano.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2318,21 +2290,7 @@
       }
     },
     {
-      "PK": "tar.microsoft.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "teams-events-data.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "teams.nel.measure.office.net.cardano.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2388,13 +2346,6 @@
       }
     },
     {
-      "PK": "telemetry.officeapps.live.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "telemetry.urs.microsoft.com",
       "action": {
         "do": 0,
@@ -2403,13 +2354,6 @@
     },
     {
       "PK": "telemetry.visualstudio.microsoft.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "tenmax-ads.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1
@@ -2682,6 +2626,13 @@
       }
     },
     {
+      "PK": "westeurope-5.in.applicationinsights.azure.com.fiege.de",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "weus2watcab01.blob.core.windows.net",
       "action": {
         "do": 0,
@@ -2718,6 +2669,13 @@
     },
     {
       "PK": "word-telemetry.wac.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "wttwebsiteprodapi-liveevents.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1

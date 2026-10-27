@@ -1,19 +1,15 @@
-# Title: HaGeZi's OPPO & Realme Tracker DNS Blocklist
-# Description: Blocks OPPO & Realme native broadband tracker that track your activity.
+# Title: HaGeZi's OPPO & Realme Tracker - blocks built-in trackers from devices, apps, and OSes!
+# Description: Blocks the OPPO & Realme native trackers baked into devices, services, and operating systems that quietly track what you do.
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-# Expires: 1 day
-# Last modified: 24 May 2026 17:07 UTC
-# Version: 2026.0524.1707.46
+# Expires: 8 hours
+# Last modified: 16 Oct 2026 22:11 UTC
+# Version: 2026.1016.2211.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 465
+# Number of entries: 489
 #
-local=/calculator-api-fr.allawnos.com/
-local=/calculator-api-in.allawnos.com/
-local=/calculator-api-sg.allawnos.com/
-local=/calculator-api-us.allawnos.com/
 local=/classify-app-eu.allawnos.com/
 local=/classify-app-in.allawnos.com/
 local=/classify-app-sg.allawnos.com/
@@ -56,8 +52,17 @@ local=/gui-server-in.allawnos.com/
 local=/gui-server-sg.allawnos.com/
 local=/gui-server-us.allawnos.com/
 local=/icosa-service-eu.allawnos.com/
+local=/icosa-service-fr-01.allawnos.com/
+local=/icosa-service-fr-02.allawnos.com/
+local=/icosa-service-fr-03.allawnos.com/
 local=/icosa-service-in.allawnos.com/
+local=/icosa-service-in-01.allawnos.com/
+local=/icosa-service-in-02.allawnos.com/
+local=/icosa-service-in-03.allawnos.com/
 local=/icosa-service-sg.allawnos.com/
+local=/icosa-service-sg-01.allawnos.com/
+local=/icosa-service-sg-02.allawnos.com/
+local=/icosa-service-sg-03.allawnos.com/
 local=/icosa-service-us.allawnos.com/
 local=/icota-service-eu.allawnos.com/
 local=/icota-service-in.allawnos.com/
@@ -84,7 +89,6 @@ local=/smartcard-apps-in.allawnos.com/
 local=/smartcard-apps-sg.allawnos.com/
 local=/smartcard-apps-us.allawnos.com/
 local=/sticker-service-in.allawnos.com/
-local=/wallpaper-service-sg.allawnos.com/
 local=/zen-core-fr.allawnos.com/
 local=/zen-core-in.allawnos.com/
 local=/zen-core-sg.allawnos.com/
@@ -109,7 +113,6 @@ local=/conn5.coloros.com/
 local=/foreign.coloros.com/
 local=/guif.coloros.com/
 local=/guif-eu.coloros.com/
-local=/icosa-sg.coloros.com/
 local=/icota-eu.coloros.com/
 local=/ifrus.coloros.com/
 local=/ifrus-eu.coloros.com/
@@ -133,6 +136,7 @@ local=/appconf-ocs-us.heytapdl.com/
 local=/appconf-sgp.heytapdl.com/
 local=/conf-in-dc.heytapdl.com/
 local=/conf-sg-dc.heytapdl.com/
+local=/file-intl-push.heytapdl.com/
 local=/mdp-appconf-ae.heytapdl.com/
 local=/mdp-appconf-af.heytapdl.com/
 local=/mdp-appconf-apc.heytapdl.com/
@@ -257,7 +261,9 @@ local=/device-ups.push.heytapmobi.com/
 local=/id.push.heytapmobi.com/
 local=/userprofile.push.heytapmobi.com/
 local=/api-id.theme.heytapmobi.com/
+local=/adm-smc-cn.heytapmobi.com/
 local=/ads.heytapmobi.com/
+local=/apisnd.heytapmobi.com/
 local=/dc-dragate-cn.heytapmobi.com/
 local=/dcc-awareness-cn.heytapmobi.com/
 local=/iot-earbuds-cn.heytapmobi.com/
@@ -294,6 +300,7 @@ local=/iflow-vn.browser.heytapmobile.com/
 local=/api-gl.cdo.heytapmobile.com/
 local=/api-id.cdo.heytapmobile.com/
 local=/api-in.cdo.heytapmobile.com/
+local=/adx-op-fr-heytapmobilea-a7bbf.fr-w01.cngw.heytapmobile.com/
 local=/u-id.cpc.heytapmobile.com/
 local=/api-id.game.heytapmobile.com/
 local=/report-in.opay.heytapmobile.com/
@@ -304,17 +311,23 @@ local=/api-id.theme.heytapmobile.com/
 local=/report-eu.uc.heytapmobile.com/
 local=/report-in.uc.heytapmobile.com/
 local=/report-sg.uc.heytapmobile.com/
+local=/ad-growth-in.heytapmobile.com/
+local=/ad-growth-ru.heytapmobile.com/
+local=/ad-growth-sg.heytapmobile.com/
 local=/ads.heytapmobile.com/
 local=/ads-bdapi-my.heytapmobile.com/
 local=/ads-bdapi-ph.heytapmobile.com/
 local=/ads-bdapi-th.heytapmobile.com/
 local=/ads-bdapi-vn.heytapmobile.com/
+local=/ads-cps-in.heytapmobile.com/
 local=/adx-ads-fr.heytapmobile.com/
 local=/adx-ads-ru.heytapmobile.com/
 local=/adx-op-fr.heytapmobile.com/
 local=/adx-op-in.heytapmobile.com/
 local=/adx-op-ru.heytapmobile.com/
 local=/adx-op-sg.heytapmobile.com/
+local=/adx-u-in.heytapmobile.com/
+local=/adx-u-ru.heytapmobile.com/
 local=/adx-u-sg.heytapmobile.com/
 local=/adxu-bigo-sg.heytapmobile.com/
 local=/bdapi-ads-sg.heytapmobile.com/
@@ -433,10 +446,15 @@ local=/cloudconf-app-vn.heytapmobile.com/
 local=/cloudconf-app-za.heytapmobile.com/
 local=/conf-in-dc.heytapmobile.com/
 local=/dc.heytapmobile.com/
+local=/dc-dragate-sg.heytapmobile.com/
 local=/dc-stat-in.heytapmobile.com/
 local=/dragate-in-dc.heytapmobile.com/
 local=/mdp-usertrace-in.heytapmobile.com/
 local=/mdp-usertrace-sg.heytapmobile.com/
+local=/obus-conf-fr.heytapmobile.com/
+local=/obus-conf-in.heytapmobile.com/
+local=/obus-conf-sg.heytapmobile.com/
+local=/obus-conf-us.heytapmobile.com/
 local=/obus-dc-eu.heytapmobile.com/
 local=/obus-dc-ru.heytapmobile.com/
 local=/obus-dc-us.heytapmobile.com/
@@ -450,6 +468,7 @@ local=/obus-dc20305-in.heytapmobile.com/
 local=/obus-dc20305-sg.heytapmobile.com/
 local=/obus-dctech-in.heytapmobile.com/
 local=/obus-dctech-sg.heytapmobile.com/
+local=/obus-dcyitai-sg.heytapmobile.com/
 local=/obus-jssdk-fr.heytapmobile.com/
 local=/obus-jssdk-in.heytapmobile.com/
 local=/obus-jssdk-sg.heytapmobile.com/
@@ -461,6 +480,10 @@ local=/slb-apisnd-in.heytapmobile.com/
 local=/sms-ads-in.heytapmobile.com/
 local=/sms-ads-ru.heytapmobile.com/
 local=/stgdata-ads-fr.heytapmobile.com/
+local=/video-api-fr.heytapmobile.com/
+local=/video-api-gl.heytapmobile.com/
+local=/video-api-in.heytapmobile.com/
+local=/video-api-ru.heytapmobile.com/
 local=/dragate.dc.oppomobile.com/
 local=/dragate-br.dc.oppomobile.com/
 local=/dragate-sg.dc.oppomobile.com/
@@ -472,6 +495,7 @@ local=/dhfs-in.oppomobile.com/
 local=/dhfs-th.oppomobile.com/
 local=/dhfs-vn.oppomobile.com/
 local=/dhfsf.oppomobile.com/
-local=/h4g3z1-native.oppo-realme.web.app/
+local=/sea-log-rcv.vansound.com/
+local=/h4g3z1-native-oppo-realme.web.app/
 local=/finosfin.com/
 local=/hizonetech.com/

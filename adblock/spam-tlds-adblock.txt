@@ -4,17 +4,15 @@
 ! Source: https://www.spamhaus.org/reputation-statistics/gtlds/domains/
 !         https://radar.cloudflare.com/email-security
 !         https://trends.netcraft.com/cybercrime/tlds
-!         https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
-!         https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Jul 2026 10:41 UTC
-! Version: 2026.0707.1041.00
+! Last modified: 26 Oct 2026 10:09 UTC
+! Version: 2026.1026.1009.17
 ! Syntax: AdBlock
-! Number of latin TLDs: 130/294
+! Number of latin TLDs: 127/294
 !
 ||actor^
 ||apartments^
@@ -29,12 +27,10 @@
 ||bond^
 ||boston^
 ||boutique^
-||builders^
 ||business^
 ||cam^
 ||casino^
 ||ceo^
-||cfd^
 ||channel^
 ||charity^
 ||cheap^
@@ -56,7 +52,6 @@
 ||esq^
 ||exposed^
 ||faith^
-||family^
 ||fans^
 ||financial^
 ||fishing^
@@ -68,6 +63,7 @@
 ||gives^
 ||giving^
 ||golf^
+||gq^
 ||gratis^
 ||gripe^
 ||hair^
@@ -109,7 +105,6 @@
 ||ren^
 ||repair^
 ||review^
-||reviews^
 ||rich^
 ||rodeo^
 ||ryukyu^

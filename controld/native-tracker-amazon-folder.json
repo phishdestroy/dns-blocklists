@@ -316,21 +316,7 @@
       }
     },
     {
-      "PK": "aax-ott-sdk.amazon-adsystem.amazon.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "aax-ott-sdk.amazon-adsystem.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "aax-us.amazon-adsystem.amazon.com",
       "action": {
         "do": 0,
         "status": 1
@@ -561,6 +547,13 @@
       }
     },
     {
+      "PK": "adserver.pubtech.amazon.dev",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ads-setu-proxy.amazon.com",
       "action": {
         "do": 0,
@@ -778,6 +771,13 @@
       }
     },
     {
+      "PK": "api.metrics.us-west-2.iris.apx.amazon.dev",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "api.us-east-1.aiv-delivery.net",
       "action": {
         "do": 0,
@@ -890,21 +890,7 @@
       }
     },
     {
-      "PK": "at-beta.amazon-adsystem.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "atfe.amazon-adsystem.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "at-gamma-us-east.amazon-adsystem.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1282,7 +1268,7 @@
       }
     },
     {
-      "PK": "h4g3z1-native.amazon.web.app",
+      "PK": "h4g3z1-native-amazon.web.app",
       "action": {
         "do": 0,
         "status": 1
@@ -1506,13 +1492,6 @@
       }
     },
     {
-      "PK": "maws-aax-fe-sin.amazon-adsystem.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "maws-aax-us-east.amazon-adsystem.com",
       "action": {
         "do": 0,
@@ -1548,7 +1527,35 @@
       }
     },
     {
+      "PK": "metrics.eu-central-1.iris.apx.amazon.dev",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics.eu-south-2.iris.apx.amazon.dev",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics.eu-west-1.iris.apx.amazon.dev",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "metrics.media-amazon.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics.us-east-1.iris.apx.amazon.dev",
       "action": {
         "do": 0,
         "status": 1
@@ -1569,7 +1576,7 @@
       }
     },
     {
-      "PK": "mshopbugsnag.irm.amazon.dev",
+      "PK": "origin-s.amazon-adsystem.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1807,6 +1814,13 @@
       }
     },
     {
+      "PK": "sponsored-ads.amazon.ae",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "sponsored-ads.amazon.ca",
       "action": {
         "do": 0,
@@ -1849,7 +1863,28 @@
       }
     },
     {
+      "PK": "sponsored-ads.amazon.com.tr",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "sponsored-ads.amazon.co.uk",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sponsored-ads.amazon.co.za",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sponsored-ads.amazon.eg",
       "action": {
         "do": 0,
         "status": 1
@@ -1877,7 +1912,28 @@
       }
     },
     {
+      "PK": "sponsored-ads.amazon.in.alphionsee.in",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "sponsored-ads.amazon.it",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sponsored-ads.amazon.sa",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sponsored-ads.amazon.sg",
       "action": {
         "do": 0,
         "status": 1
@@ -2340,6 +2396,13 @@
     },
     {
       "PK": "vfwm.amazon-adsystem.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "vfwm-eu.amazon-adsystem.com",
       "action": {
         "do": 0,
         "status": 1

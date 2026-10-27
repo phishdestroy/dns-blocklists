@@ -169,13 +169,6 @@
       }
     },
     {
-      "PK": "librex.myroware.eu",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "librex.nohost.network",
       "action": {
         "do": 0,
@@ -380,13 +373,6 @@
     },
     {
       "PK": "recherche.aol.fr",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "results.excite.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1093,6 +1079,13 @@
       }
     },
     {
+      "PK": "searxng.diadz.de",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "searxng.nicfab.eu",
       "action": {
         "do": 0,
@@ -1191,13 +1184,6 @@
       }
     },
     {
-      "PK": "searx.stream",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "searx.sulu.me",
       "action": {
         "do": 0,
@@ -1255,13 +1241,6 @@
     },
     {
       "PK": "searx.zdechov.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "searxzh.cn",
       "action": {
         "do": 0,
         "status": 1

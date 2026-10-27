@@ -302,6 +302,13 @@
       }
     },
     {
+      "PK": "aax-events-*.axp.amazon-adsystem.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "aax-fe.amazon.co.jp",
       "action": {
         "do": 1,
@@ -443,6 +450,13 @@
     },
     {
       "PK": "action.metaffiliation.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ad2.trafficgate.net",
       "action": {
         "do": 1,
         "status": 1
@@ -632,6 +646,13 @@
     },
     {
       "PK": "adsv.svc.litv.tv",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ad.trafficgate.net",
       "action": {
         "do": 1,
         "status": 1
@@ -841,6 +862,13 @@
       }
     },
     {
+      "PK": "a.partner-versicherung.de",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "api.bam-x.com",
       "action": {
         "do": 1,
@@ -1017,6 +1045,13 @@
     },
     {
       "PK": "app.metricsverse.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "app*.outreach.io",
       "action": {
         "do": 1,
         "status": 1
@@ -1233,6 +1268,13 @@
       }
     },
     {
+      "PK": "bapi*.moengage.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "bcp.crwdcntrl.net",
       "action": {
         "do": 1,
@@ -1387,6 +1429,13 @@
       }
     },
     {
+      "PK": "callback.api.qgraph.io",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "campaign.adobe.com",
       "action": {
         "do": 1,
@@ -1506,6 +1555,13 @@
       }
     },
     {
+      "PK": "c.kakaku.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "ck.hdm3.in",
       "action": {
         "do": 1,
@@ -1541,6 +1597,13 @@
       }
     },
     {
+      "PK": "clcktrck.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "clck.wargaming.net",
       "action": {
         "do": 1,
@@ -1562,7 +1625,7 @@
       }
     },
     {
-      "PK": "cl.exct.net",
+      "PK": "cl*.exct.net",
       "action": {
         "do": 1,
         "status": 1
@@ -1752,6 +1815,13 @@
     },
     {
       "PK": "click.e.sees.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "click.esky.com",
       "action": {
         "do": 1,
         "status": 1
@@ -2438,6 +2508,20 @@
     },
     {
       "PK": "data.digital.costco.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "data.email.philips-hue.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "data.email.tangerine.ca",
       "action": {
         "do": 1,
         "status": 1
@@ -3536,6 +3620,13 @@
       }
     },
     {
+      "PK": "linksaffiliate.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "links*.afterpay.com",
       "action": {
         "do": 1,
@@ -3865,6 +3956,13 @@
       }
     },
     {
+      "PK": "mjt.lu",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "mkto-*.com",
       "action": {
         "do": 1,
@@ -4090,6 +4188,13 @@
     },
     {
       "PK": "one.impact-ad.jp",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "onelink.appsflyersdk.com",
       "action": {
         "do": 1,
         "status": 1
@@ -5181,6 +5286,13 @@
       }
     },
     {
+      "PK": "t.ajump.link",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "takmertok.com",
       "action": {
         "do": 1,
@@ -5364,6 +5476,13 @@
     },
     {
       "PK": "t.neory-tm.net",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "to.klatsa.nl",
       "action": {
         "do": 1,
         "status": 1
@@ -5580,6 +5699,13 @@
       }
     },
     {
+      "PK": "track-eu.adform.net",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "track.flexlinkspro.com",
       "action": {
         "do": 1,
@@ -5644,6 +5770,13 @@
     },
     {
       "PK": "tracking.delupe.net",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "tracking.emaillabs.net.pl",
       "action": {
         "do": 1,
         "status": 1
@@ -5868,6 +6001,13 @@
     },
     {
       "PK": "track.smtp2go.net",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "track.stoqapp.com",
       "action": {
         "do": 1,
         "status": 1

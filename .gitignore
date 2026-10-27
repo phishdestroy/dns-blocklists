@@ -30,3 +30,6 @@ pac/
 nrd*.txt
 dga*.txt
 hagezi-dns-*.txt
+rpz/tif.txt
+domains/
+hosts/

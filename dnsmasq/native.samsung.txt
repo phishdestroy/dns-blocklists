@@ -1,14 +1,14 @@
-# Title: HaGeZi's Samsung Tracker DNS Blocklist
-# Description: Blocks Samsung native broadband tracker that track your activity.
+# Title: HaGeZi's Samsung Tracker - blocks built-in trackers from devices, apps, and OSes!
+# Description: Blocks the Samsung native trackers baked into devices, services, and operating systems that quietly track what you do.
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-# Expires: 1 day
-# Last modified: 08 Jul 2026 18:14 UTC
-# Version: 2026.0708.1814.52
+# Expires: 8 hours
+# Last modified: 02 Oct 2026 22:15 UTC
+# Version: 2026.1002.2215.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 202
+# Number of entries: 200
 #
 local=/samsung-com.112.2o7.net/
 local=/metric.account-samsung.com/
@@ -21,7 +21,6 @@ local=/samsungscript.beusable.net/
 local=/samsung.bimtrackapp.co/
 local=/cn-api.mcsvc.samsung.com.cn/
 local=/smetrics.samsung.com.cn/
-local=/push.samsungosp.com.cn/
 local=/samsungott.sora.yoyi.com.cn/
 local=/fast.samsungsingapore.demdex.net/
 local=/samsung.demdex.net/
@@ -61,7 +60,6 @@ local=/samsung-akcja.e-kei.pl/
 local=/samsung.ecorebates.com/
 local=/samsung.telemetry.eyeo.com/
 local=/ehg-samsungusa.hitbox.com/
-local=/ureca.samsungapps.com.ad.mexnet.de/
 local=/samsung.com.ssl.sc.omtrdc.net/
 local=/samsungcard.sc.omtrdc.net/
 local=/samsungnorthamerica.sc.omtrdc.net/
@@ -202,7 +200,7 @@ local=/samsungturkey.api.useinsider.com/
 local=/samsunguk.api.useinsider.com/
 local=/samsungusa.api.useinsider.com/
 local=/samsungvn.api.useinsider.com/
-local=/h4g3z1-native.samsung.web.app/
+local=/h4g3z1-native-samsung.web.app/
 local=/moai-dev-samsung.com/
 local=/qmds-dev-samsung.com/
 local=/samsungacr.com/

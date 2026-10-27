@@ -8,14 +8,14 @@
   },
   "rules": [
     {
-      "PK": "ab.apple.com.akadns.net",
+      "PK": "acfeedbackws.icloud.com",
       "action": {
         "do": 0,
         "status": 1
       }
     },
     {
-      "PK": "acfeedbackws.icloud.com",
+      "PK": "ads.apple.com",
       "action": {
         "do": 0,
         "status": 1
@@ -36,6 +36,13 @@
       }
     },
     {
+      "PK": "aios-otel-collector.g.apple.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "analytics-events.apple.com",
       "action": {
         "do": 0,
@@ -44,6 +51,13 @@
     },
     {
       "PK": "api-adservices.apple.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "app-events.infoapps.apple.com",
       "action": {
         "do": 0,
         "status": 1
@@ -155,13 +169,6 @@
       }
     },
     {
-      "PK": "diagassets-lb.apple.com.akadns.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "diagnostics.apple.com",
       "action": {
         "do": 0,
@@ -246,6 +253,13 @@
       }
     },
     {
+      "PK": "freeform-events.apple.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "graffiti-tags.apple.com",
       "action": {
         "do": 0,
@@ -253,7 +267,7 @@
       }
     },
     {
-      "PK": "h4g3z1-native.apple.web.app",
+      "PK": "h4g3z1-native-apple.web.app",
       "action": {
         "do": 0,
         "status": 1
@@ -275,13 +289,6 @@
     },
     {
       "PK": "iadcontent.apple.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "iadcontent-lb.apple.com.akadns.net",
       "action": {
         "do": 0,
         "status": 1
@@ -533,6 +540,13 @@
       }
     },
     {
+      "PK": "prod-app-analytics-event-gateway.v.aaplimg.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "prod-event-relay-api.v.aaplimg.com",
       "action": {
         "do": 0,
@@ -569,6 +583,13 @@
     },
     {
       "PK": "prod-event-relay-weather-api.v.aaplimg.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "prod-iwork-events.v.aaplimg.com",
       "action": {
         "do": 0,
         "status": 1

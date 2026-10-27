@@ -1,14 +1,14 @@
-# Title: HaGeZi's safesearch not supported DNS Blocklist
-# Description: Prevents the use of search engines that do not support safesearch.
+# Title: HaGeZi's safesearch not supported - blocks search engines that skip Safesearch!
+# Description: Blocks search engines that don't support Safesearch.
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-# Expires: 1 day
-# Last modified: 03 Jul 2026 18:34 UTC
-# Version: 2026.0703.1834.29
+# Expires: 8 hours
+# Last modified: 02 Oct 2026 21:46 UTC
+# Version: 2026.1002.2146.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 206
+# Number of entries: 203
 #
 local=/search.0xcb.dev/
 local=/search.0xgingi.com/
@@ -50,6 +50,7 @@ local=/searx.deepak.pro/
 local=/search.demoniak.ch/
 local=/librex.devol.it/
 local=/searx.devol.it/
+local=/searxng.diadz.de/
 local=/search.disroot.org/
 local=/searx.divided-by-zero.eu/
 local=/search.dojoro.de/
@@ -60,7 +61,6 @@ local=/searx.elukerio.org/
 local=/searx.ericaftereric.top/
 local=/search.ethibox.fr/
 local=/searx.everdot.org/
-local=/results.excite.com/
 local=/search.fascinated.cc/
 local=/search.femboy.ad/
 local=/searx.feneas.org/
@@ -92,7 +92,6 @@ local=/searx.mha.fi/
 local=/search.minus27315.dev/
 local=/search.modalogi.com/
 local=/searx.monicz.pl/
-local=/librex.myroware.eu/
 local=/searx.nakhan.net/
 local=/search.nebulacentre.net/
 local=/searx.netzspielplatz.de/
@@ -203,11 +202,9 @@ local=/searx.party/
 local=/searx.ru/
 local=/searx.si/
 local=/searx.space/
-local=/searx.stream/
 local=/searx.work/
 local=/searx.xyz/
 local=/searxng.biz/
-local=/searxzh.cn/
 local=/skyn3t.in/
 local=/suchfeuer.de/
 local=/webcrawler.com/
