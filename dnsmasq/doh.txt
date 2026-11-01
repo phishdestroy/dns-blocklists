@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 31 Oct 2026 16:23 UTC
-# Version: 2026.1031.1623.05
+# Last modified: 01 Nov 2026 10:28 UTC
+# Version: 2026.1101.1028.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3504
+# Number of entries: 3505
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -163,6 +163,7 @@ local=/adguard.acrobyte.org/
 local=/adl.adfilter.net/
 local=/per.adfilter.net/
 local=/syd.adfilter.net/
+local=/dns.adfreedns.org/
 local=/dns.adguard.com/
 local=/dns-family.adguard.com/
 local=/dns-unfiltered.adguard.com/

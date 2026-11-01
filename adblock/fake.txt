@@ -6,13 +6,11 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 8 hours
-! Last modified: 31 Oct 2026 08:44 UTC
-! Version: 2026.1031.0844.37
+! Last modified: 01 Nov 2026 09:00 UTC
+! Version: 2026.1101.0900.16
 ! Syntax: AdBlock
-! Number of entries: 17561
+! Number of entries: 17553
 !
-||f.075756.net^
-||finanzen.075756.net^
 ||eu.2bagsvalley.cn^
 ||de.activenutra.coupons^
 ||store.aeotec.com^
@@ -792,7 +790,6 @@
 ||3racingparts.com^
 ||3sixteenonline.org^
 ||4-pfoten-freizeit.de^
-||4bike.net^
 ||4dmarkt.de^
 ||4rainfast.shop^
 ||4rxofficial.com^
@@ -2326,7 +2323,6 @@
 ||bestbikecyclinggear.com^
 ||bestbikede.com^
 ||bestboxcontainer.de^
-||bestchoicepills.com^
 ||bestclothes.club^
 ||bestcoiffureshop.com^
 ||bestdealtoday.net^
@@ -4483,7 +4479,6 @@
 ||discounntde.com^
 ||discount-audio-equipment.com^
 ||discount-baustoff.de^
-||discount-cigarettes-store.net^
 ||discount-kobalt.com^
 ||discount-lightingshop.com^
 ||discount-megastore.com^
@@ -6414,7 +6409,6 @@
 ||gartenfuhrer.de^
 ||gartenfurdu.de^
 ||gartengenussde.com^
-||gartengeraete-shop.de^
 ||gartengluecklich.de^
 ||gartengreifer.de^
 ||gartenguenter.de^
@@ -7932,7 +7926,6 @@
 ||hotelladen.com^
 ||hotels-colombo.com^
 ||hotelsinperm.ru^
-||hotelsinvienna.org^
 ||hotelsofmenorca.com^
 ||hotelwareus.com^
 ||hotelwhales.com^
@@ -12547,7 +12540,6 @@
 ||pills-au.com^
 ||pills-store-online24.com^
 ||pillsshop.live^
-||pillstock.net^
 ||pillz888.org^
 ||pilotentest-vorbereitung.com^
 ||pilotshof.com^
@@ -12599,7 +12591,6 @@
 ||plasticsdaily.com^
 ||plasticshor.com^
 ||platform-ai-trade.com^
-||platincoin.com^
 ||platinwerk.de^
 ||platten24.com^
 ||platzimgarten.com^
@@ -12805,6 +12796,7 @@
 ||primalekarna.com^
 ||primary-markets.com^
 ||primatop.de^
+||primavo24.de^
 ||prime-analytics.de^
 ||prime-deutschland.com^
 ||prime-e-bike.eu^

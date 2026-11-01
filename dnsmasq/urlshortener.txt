@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 30 Oct 2026 08:55 UTC
-# Version: 2026.1030.0855.44
+# Last modified: 01 Nov 2026 09:02 UTC
+# Version: 2026.1101.0902.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9878
+# Number of entries: 9873
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -952,7 +952,6 @@ local=/1dietplans.com/
 local=/1do.me/
 local=/1drv.ms/
 local=/1ea.ir/
-local=/1fashionable.xyz/
 local=/1fi.us/
 local=/1fy.ir/
 local=/1gh.co/
@@ -1002,7 +1001,6 @@ local=/1url.re/
 local=/1url.vn/
 local=/1vk.net/
 local=/1west.io/
-local=/1wn.bz/
 local=/1xfn.tech/
 local=/1xregister.vip/
 local=/1z.lc/
@@ -1037,7 +1035,6 @@ local=/2fear.com/
 local=/2h.ae/
 local=/2i.gs/
 local=/2i1i.cn/
-local=/2it.info/
 local=/2k1.me/
 local=/2kgam.es/
 local=/2l2.me/
@@ -1130,7 +1127,6 @@ local=/4.ly/
 local=/4-bio.link/
 local=/42jump.com/
 local=/42l.fr/
-local=/42url.com/
 local=/45h.it/
 local=/46.fi/
 local=/47.de/
@@ -1179,7 +1175,6 @@ local=/5du.pl/
 local=/5ia.ir/
 local=/5il.co/
 local=/5k.lol/
-local=/5m.io/
 local=/5ne.co/
 local=/5o.io/
 local=/5or.cc/

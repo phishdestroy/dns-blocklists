@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1793350500 28800 3600 259200 3600
+@ SOA localhost. root.localhost. 1793523720 28800 3600 259200 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's URL Shortener - blocks link shorteners!
@@ -8,10 +8,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 8 hours
-; Last modified: 30 Oct 2026 08:55 UTC
-; Version: 2026.1030.0855.44
+; Last modified: 01 Nov 2026 09:02 UTC
+; Version: 2026.1101.0902.46
 ; Syntax: RPZ
-; Number of entries: 19756
+; Number of entries: 19746
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1301,8 +1301,6 @@ urls.by CNAME .
 *.urls.by CNAME .
 zak.by CNAME .
 *.zak.by CNAME .
-1wn.bz CNAME .
-*.1wn.bz CNAME .
 2qr.bz CNAME .
 *.2qr.bz CNAME .
 bbb.bz CNAME .
@@ -3083,8 +3081,6 @@ t.360scm.com CNAME .
 *.3qzr.com CNAME .
 42jump.com CNAME .
 *.42jump.com CNAME .
-42url.com CNAME .
-*.42url.com CNAME .
 4insurancejobs.com CNAME .
 *.4insurancejobs.com CNAME .
 4sharedlink.com CNAME .
@@ -10203,8 +10199,6 @@ znly.in CNAME .
 *.znly.in CNAME .
 go.zordo.in CNAME .
 *.go.zordo.in CNAME .
-2it.info CNAME .
-*.2it.info CNAME .
 2my.info CNAME .
 *.2my.info CNAME .
 2to.info CNAME .
@@ -10541,8 +10535,6 @@ zat.ink CNAME .
 *.2x1.io CNAME .
 k.3es.io CNAME .
 *.k.3es.io CNAME .
-5m.io CNAME .
-*.5m.io CNAME .
 5o.io CNAME .
 *.5o.io CNAME .
 7mb.io CNAME .
@@ -19565,8 +19557,6 @@ wf0.xin CNAME .
 *.123415.xyz CNAME .
 123lnk.xyz CNAME .
 *.123lnk.xyz CNAME .
-1fashionable.xyz CNAME .
-*.1fashionable.xyz CNAME .
 3d1200.xyz CNAME .
 *.3d1200.xyz CNAME .
 4fold.xyz CNAME .

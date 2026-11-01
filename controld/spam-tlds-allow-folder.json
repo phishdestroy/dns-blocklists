@@ -4761,6 +4761,13 @@
       }
     },
     {
+      "PK": "petmed.plus",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "petridish.pw",
       "action": {
         "do": 1,

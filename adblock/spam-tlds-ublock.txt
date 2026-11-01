@@ -9,8 +9,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 29 Oct 2026 16:39 UTC
-! Version: 2026.1029.1639.06
+! Last modified: 01 Nov 2026 00:28 UTC
+! Version: 2026.1101.0028.48
 ! Syntax: uBlock
 ! Number of latin TLDs: 294 - punycode TLDs: 151
 !
@@ -213,7 +213,7 @@
 ||pink^$doc
 ||pizza^$doc,domain=~tux.pizza
 ||place^$doc,domain=~gamedev.place
-||plus^$doc,domain=~mstdn.plus|~pahe.plus|~rcti.plus|~saepay.plus
+||plus^$doc,domain=~mstdn.plus|~pahe.plus|~petmed.plus|~rcti.plus|~saepay.plus
 ||poker^$doc
 ||post^$doc,domain=~cypruspost.post|~postnl.post
 ||prof^$doc,domain=~casey.prof
