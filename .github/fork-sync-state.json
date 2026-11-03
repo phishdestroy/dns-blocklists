@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-02T11:42:25.839264+00:00",
+  "checked_at": "2026-11-03T11:23:23.037364+00:00",
   "upstream": "hagezi/dns-blocklists",
   "upstream_branch": "main",
-  "upstream_commit": "39c4cbeb03d39bc36fff42a998ebb014f6f22bb8",
+  "upstream_commit": "81bbd1b9009893d65358146b23282647634c26be",
   "version": 1,
   "workflow_policy": "preserve fork workflows; never import upstream workflows"
 }
