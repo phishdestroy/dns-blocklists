@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 04 Nov 2026 16:53 UTC
-# Version: 2026.1104.1653.53
+# Last modified: 05 Nov 2026 17:03 UTC
+# Version: 2026.1105.1703.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3588
+# Number of entries: 3585
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -498,6 +498,8 @@ local=/dns.clanto.cloud/
 local=/myagh.claptrap.me/
 local=/adguard.clawsucht.eu/
 local=/prdot.cldsrv.es/
+local=/dns.cleardns.io/
+local=/dot.cleardns.io/
 local=/cvt-ic-us-adns-001.clearviewtechnology.net/
 local=/midns.clicinternet.com/
 local=/dns.clickhost.xyz/
@@ -1350,7 +1352,6 @@ local=/dns.geohide.ru/
 local=/alyus.geri.vip/
 local=/geshido.vpn.geshido.ru/
 local=/roma.vpn.geshido.ru/
-local=/dns.getnoclip.link/
 local=/ashixu.ggff.net/
 local=/adguard.ghkyzz.us/
 local=/dns.ghost.pm/
@@ -1469,13 +1470,11 @@ local=/pihole1.hoerli.net/
 local=/pihole2.hoerli.net/
 local=/pihole3.hoerli.net/
 local=/pihole4.hoerli.net/
-local=/dns.hoian.one/
 local=/cloud2.holzmannclouddns.de/
 local=/socolov.home.ro/
 local=/dns4.home-albrecht.com/
 local=/dns5.home-albrecht.com/
 local=/pi.homeanywhere.org/
-local=/admin.homedns.uk/
 local=/isolacje.homeip.net/
 local=/adguard01.homepeter.de/
 local=/dns.hopsken.com/
@@ -1500,7 +1499,6 @@ local=/dns.hostux.net/
 local=/dns.hotta.page/
 local=/dns.housedenolf.be/
 local=/freemnt.hpitto.com/
-local=/dns.hqdns.sarl/
 local=/doh.hshkf.com/
 local=/dns.hshoe.cn/
 local=/pub.hsuan.ink/
@@ -1659,7 +1657,6 @@ local=/dns.jerry-lee.uk/
 local=/host.jerry-lee.uk/
 local=/dns.jerrylee.uk/
 local=/dns.jerryw.cn/
-local=/adguard.jfchenier.ca/
 local=/dns.jhangy.us/
 local=/dns.jichi.io/
 local=/dns.jimirobaer.be/
