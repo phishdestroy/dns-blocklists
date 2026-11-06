@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 05 Nov 2026 15:32 UTC
-# Version: 2026.1105.1532.09
+# Last modified: 06 Nov 2026 09:15 UTC
+# Version: 2026.1106.0915.55
 # Syntax: Domains (without subdomains)
-# Number of entries: 9815
+# Number of entries: 9794
 #
 a.189.cn
 t.2merkato.com
@@ -439,7 +439,6 @@ lk.macmarketing.us
 urlshortener.mahamafzar.com
 link.mamawyprawia.pl
 kutt.mariodian.com
-herramientas.marketingcubano.com
 dl.marloth.tech
 l2.mastercoria.com
 u.mavrev.com
@@ -4506,7 +4505,6 @@ kont.ly
 kontentino.com
 kootah.me
 kopo.live
-koreanbiolink.com
 korek.bio
 kornferry.live
 kort.ca
@@ -4811,7 +4809,6 @@ linkcut.net
 linkcutt.com
 linkd.in
 linkd.nz
-linkda.bio
 linkdel.bio
 linkdly.com
 linkdly.me
@@ -4963,7 +4960,6 @@ linkshare.pro
 linkshort.co
 linkshort.eu
 linkshort.in
-linkshort.uk
 linkshortener.at
 linkshortener.io
 linkshortener.net
@@ -4975,13 +4971,10 @@ linkshortner.online
 linkshrink.net
 linkshrink.org
 linksi.me
-linksimple.io
 linksimplify.com
 linkslave.com
 linkslice.io
-linkslim.io
 linksm.tech
-linksminify.com
 linksnapro.com
 linksnip.me
 linksplit.io
@@ -4999,7 +4992,6 @@ linktexas.info
 linktgd.com
 linktgd.net
 linkthis.link
-linkti.mx
 linkto.eu
 linktop.site
 linktr.ee
@@ -5016,7 +5008,6 @@ linkverified.net
 linkverkorten.com
 linkvertise.com
 linkvertise.net
-linkvip88.org
 linkvp.com
 linkvs.com
 linkwede.vip
@@ -5061,12 +5052,10 @@ littly.fr
 litty.in
 littylink.com
 liu.es
-liurl.cn
 livemu.sc
 livemybio.com
 livesport88.life
 lixy.me
-liy.ke
 ljg.cl
 lk1.uk
 lkdg.yoga
@@ -5286,10 +5275,6 @@ machess.org
 maejo.link
 maga.lu
 magatxt.us
-magaus.co
-magaus.net
-magaus.org
-magaus.xyz
 magnet-mind.com
 mah.to
 maha77.site
@@ -5309,7 +5294,6 @@ mamikale.me
 mamm.ie
 mampir.link
 mangotwo.com
-mantapkalee.me
 mantaplink.com
 many.at
 maoruan.club
@@ -5330,7 +5314,6 @@ masuk.cfd
 masuk.to
 masuk-id.info
 masy.uk
-match-heaven.club
 matei.org
 mathmayr.com
 mattes.live
@@ -5410,8 +5393,6 @@ mely.me
 menang.win
 menangbola77.info
 menj.info
-meowlink.app
-meraihcuan.com
 mergi.la
 merky.de
 mero.page
@@ -5480,7 +5461,6 @@ minifyme.co
 minifyn.com
 minifyurl.co
 minilien.com
-minilink.id
 minilink.io
 minilink.nl
 minilink.pro
@@ -5579,7 +5559,6 @@ mq3.net
 mr-link.app
 mrfye.org
 mrjj.uk
-mrlink.in
 mrsaeed.com
 mrte.ch
 mrturl.com
