@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 8 hours
-! Last modified: 06 Nov 2026 16:43 UTC
-! Version: 2026.1106.1643.14
+! Last modified: 07 Nov 2026 09:47 UTC
+! Version: 2026.1107.0947.41
 ! Syntax: AdBlock
-! Number of entries: 3580
+! Number of entries: 3575
 !
 ||ss.0001.xyz^
 ||ns.00dani.me^
@@ -2290,7 +2290,6 @@
 ||dns.pacificmonster.com^
 ||dns.paesa.es^
 ||dns.paliska.net^
-||adguard.pancybertronics.com^
 ||adguard.pangerl.it^
 ||dns.panszelescik.pl^
 ||dns-ovh.panszelescik.pl^
@@ -2359,7 +2358,6 @@
 ||angry.pp.ua^
 ||dnscloud.pp.ua^
 ||gruppo.pp.ua^
-||guard.pp.ua^
 ||lindung.pp.ua^
 ||pad3w.pp.ua^
 ||reskah.pp.ua^
@@ -2458,7 +2456,6 @@
 ||dns.rbn.gr^
 ||adguard.rdekuyper.nl^
 ||1.rdnls.ru^
-||dns.readlook.tk^
 ||hk.reaticle.com^
 ||adg.rednetline.com^
 ||dns.redroot.cc^
@@ -3441,9 +3438,7 @@
 ||philqoo.com^
 ||phongg.vn^
 ||pingbi.xyz^
-||pm1239-bd.xyz^
 ||pm7051-br.xyz^
-||pm9352-bd.xyz^
 ||polisitogel.beauty^
 ||polisitogel.contractors^
 ||polisitogel.hair^

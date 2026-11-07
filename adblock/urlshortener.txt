@@ -5,10 +5,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 8 hours
-! Last modified: 06 Nov 2026 15:11 UTC
-! Version: 2026.1106.1511.30
+! Last modified: 07 Nov 2026 08:21 UTC
+! Version: 2026.1107.0821.32
 ! Syntax: AdBlock
-! Number of entries: 9793
+! Number of entries: 9777
 !
 ||a.189.cn^
 ||t.2merkato.com^
@@ -5906,7 +5906,6 @@
 ||o.vg^
 ||o-link.top^
 ||o-x.fr^
-||o-yes.net^
 ||o9.net^
 ||oal.lu^
 ||obank.tw^
@@ -5990,7 +5989,6 @@
 ||onelink.to^
 ||onelinkly.com^
 ||onelogin.com^
-||onemlibirbilgi.org^
 ||onepixel.link^
 ||onepl.us^
 ||oneshort.link^
@@ -6083,7 +6081,6 @@
 ||ow.nl^
 ||owl.li^
 ||owlti.ng^
-||owly.site^
 ||owy.mn^
 ||oxelt.gl^
 ||oxf.am^
@@ -6112,9 +6109,7 @@
 ||padspl.it^
 ||pag.la^
 ||page.link^
-||page1healthcare.link^
 ||pagetie.com^
-||pairedinparadise.live^
 ||palpatecricketmajesty.com^
 ||pamethelabel.info^
 ||panaceainc.co^
@@ -6143,7 +6138,6 @@
 ||paths.to^
 ||pathslab.com^
 ||paut.to^
-||pawl.bio^
 ||payfca.com^
 ||paymash.io^
 ||payskip.org^
@@ -6179,14 +6173,12 @@
 ||peerwith.me^
 ||pegasurl.com^
 ||pego.work^
-||pekcamke.link^
 ||pellz.link^
 ||pencetdulu.com^
 ||penguin88.vip^
 ||penjagaudara.com^
 ||pens.pe^
 ||peoplem.ag^
-||peoplenotpersons.com^
 ||peppy.link^
 ||peprolinbot.es^
 ||pepsi.co^
@@ -6220,7 +6212,6 @@
 ||phygo.io^
 ||pi.uz^
 ||pia.sh^
-||pic.gd^
 ||pich.in^
 ||picsee.co^
 ||picsee.io^
@@ -6459,7 +6450,6 @@
 ||qdls.io^
 ||qdrop.link^
 ||qicute.com^
-||qikli.co^
 ||qk.lc^
 ||qklink.ca^
 ||qkvlk.com^
@@ -6550,7 +6540,6 @@
 ||qrtag.fr^
 ||qrtli.com^
 ||qrto.org^
-||qrump.com^
 ||qrurl.cc^
 ||qrurl.co^
 ||qrurl.us^
@@ -6559,7 +6548,6 @@
 ||qrybaan.com^
 ||qs1.it^
 ||qt.ke^
-||qthq.me^
 ||qti.ai^
 ||qton.top^
 ||qtr.sh^
@@ -6595,9 +6583,6 @@
 ||qzr2.com^
 ||r.im^
 ||r-7.co^
-||r-txt.co^
-||r-txt.com^
-||r-txt.org^
 ||r0e.org^
 ||r0m.me^
 ||r2c.one^
@@ -6659,7 +6644,6 @@
 ||rdee.us^
 ||rdr.gr^
 ||rdrclk.com^
-||rdre.me^
 ||rdrt.cc^
 ||rds.ovh^
 ||rdsaid.com^

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 06 Nov 2026 16:43 UTC
-# Version: 2026.1106.1643.14
+# Last modified: 07 Nov 2026 09:47 UTC
+# Version: 2026.1107.0947.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3580
+# Number of entries: 3575
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -2289,7 +2289,6 @@ local=/dns.p55k.com/
 local=/dns.pacificmonster.com/
 local=/dns.paesa.es/
 local=/dns.paliska.net/
-local=/adguard.pancybertronics.com/
 local=/adguard.pangerl.it/
 local=/dns.panszelescik.pl/
 local=/dns-ovh.panszelescik.pl/
@@ -2358,7 +2357,6 @@ local=/adguard-server.pp.ua/
 local=/angry.pp.ua/
 local=/dnscloud.pp.ua/
 local=/gruppo.pp.ua/
-local=/guard.pp.ua/
 local=/lindung.pp.ua/
 local=/pad3w.pp.ua/
 local=/reskah.pp.ua/
@@ -2457,7 +2455,6 @@ local=/azure.razor1911.xyz/
 local=/dns.rbn.gr/
 local=/adguard.rdekuyper.nl/
 local=/1.rdnls.ru/
-local=/dns.readlook.tk/
 local=/hk.reaticle.com/
 local=/adg.rednetline.com/
 local=/dns.redroot.cc/
@@ -3440,9 +3437,7 @@ local=/phantom3c.net/
 local=/philqoo.com/
 local=/phongg.vn/
 local=/pingbi.xyz/
-local=/pm1239-bd.xyz/
 local=/pm7051-br.xyz/
-local=/pm9352-bd.xyz/
 local=/polisitogel.beauty/
 local=/polisitogel.contractors/
 local=/polisitogel.hair/

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1793983380 28800 3600 259200 3600
+@ SOA localhost. root.localhost. 1794044820 28800 3600 259200 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass - stop people from sneaking around your DNS!
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 8 hours
-; Last modified: 06 Nov 2026 16:43 UTC
-; Version: 2026.1106.1643.14
+; Last modified: 07 Nov 2026 09:47 UTC
+; Version: 2026.1107.0947.41
 ; Syntax: RPZ
-; Number of entries: 7160
+; Number of entries: 7150
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1619,8 +1619,6 @@ dns.p55k.com CNAME .
 *.dns.p55k.com CNAME .
 dns.pacificmonster.com CNAME .
 *.dns.pacificmonster.com CNAME .
-adguard.pancybertronics.com CNAME .
-*.adguard.pancybertronics.com CNAME .
 pashagame456.com CNAME .
 *.pashagame456.com CNAME .
 doh.gcp.pathofgrace.com CNAME .
@@ -6377,8 +6375,6 @@ doh.us.moe.tips CNAME .
 *.doh.us.moe.tips CNAME .
 duyyen.tk CNAME .
 *.duyyen.tk CNAME .
-dns.readlook.tk CNAME .
-*.dns.readlook.tk CNAME .
 dns.koala.us.to CNAME .
 *.dns.koala.us.to CNAME .
 mcore.us.to CNAME .
@@ -6597,8 +6593,6 @@ dnscloud.pp.ua CNAME .
 *.dnscloud.pp.ua CNAME .
 gruppo.pp.ua CNAME .
 *.gruppo.pp.ua CNAME .
-guard.pp.ua CNAME .
-*.guard.pp.ua CNAME .
 dns.ha-dvin.pp.ua CNAME .
 *.dns.ha-dvin.pp.ua CNAME .
 dns.korzhyk.pp.ua CNAME .
@@ -7099,12 +7093,8 @@ pepetio.xyz CNAME .
 *.pepetio.xyz CNAME .
 pingbi.xyz CNAME .
 *.pingbi.xyz CNAME .
-pm1239-bd.xyz CNAME .
-*.pm1239-bd.xyz CNAME .
 pm7051-br.xyz CNAME .
 *.pm7051-br.xyz CNAME .
-pm9352-bd.xyz CNAME .
-*.pm9352-bd.xyz CNAME .
 adguard.pmoebi.xyz CNAME .
 *.adguard.pmoebi.xyz CNAME .
 dns.propheci.xyz CNAME .
