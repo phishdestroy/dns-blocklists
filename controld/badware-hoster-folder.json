@@ -1471,6 +1471,13 @@
       }
     },
     {
+      "PK": "blogspot.vip",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "bo.gp",
       "action": {
         "do": 0,
@@ -5153,13 +5160,6 @@
       }
     },
     {
-      "PK": "nokojp.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "novamov.com",
       "action": {
         "do": 0,
@@ -5567,6 +5567,13 @@
     },
     {
       "PK": "portal.lc",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "pory.app",
       "action": {
         "do": 0,
         "status": 1
@@ -6239,6 +6246,13 @@
     },
     {
       "PK": "socialsmp.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "softr.app",
       "action": {
         "do": 0,
         "status": 1
