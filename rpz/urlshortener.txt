@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1794297120 28800 3600 259200 3600
+@ SOA localhost. root.localhost. 1794383880 28800 3600 259200 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's URL Shortener - blocks link shorteners!
@@ -8,10 +8,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 8 hours
-; Last modified: 10 Nov 2026 07:52 UTC
-; Version: 2026.1110.0752.23
+; Last modified: 11 Nov 2026 07:58 UTC
+; Version: 2026.1111.0758.12
 ; Syntax: RPZ
-; Number of entries: 19558
+; Number of entries: 19566
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -439,6 +439,8 @@ shortner.app CNAME .
 *.shortner.app CNAME .
 shortshare.app CNAME .
 *.shortshare.app CNAME .
+shortthis.app CNAME .
+*.shortthis.app CNAME .
 shrinkme.app CNAME .
 *.shrinkme.app CNAME .
 shrtn.app CNAME .
@@ -1227,8 +1229,6 @@ links.luckreceptivo.com.br CNAME .
 *.links.luckreceptivo.com.br CNAME .
 conteudo.megasoft.com.br CNAME .
 *.conteudo.megasoft.com.br CNAME .
-nabio.com.br CNAME .
-*.nabio.com.br CNAME .
 shortlinks.com.br CNAME .
 *.shortlinks.com.br CNAME .
 solinks.com.br CNAME .
@@ -1321,6 +1321,8 @@ ejo.bz CNAME .
 *.ejo.bz CNAME .
 ggd.bz CNAME .
 *.ggd.bz CNAME .
+gmh.bz CNAME .
+*.gmh.bz CNAME .
 gst.bz CNAME .
 *.gst.bz CNAME .
 ice.bz CNAME .
@@ -1947,6 +1949,8 @@ ee.ci CNAME .
 *.ee.ci CNAME .
 kv.ci CNAME .
 *.kv.ci CNAME .
+vrd.ci CNAME .
+*.vrd.ci CNAME .
 bypass.city CNAME .
 *.bypass.city CNAME .
 rip.city CNAME .
@@ -2843,6 +2847,8 @@ tibco.co CNAME .
 *.tibco.co CNAME .
 tiny-link.co CNAME .
 *.tiny-link.co CNAME .
+tinyard.co CNAME .
+*.tinyard.co CNAME .
 tinygo.co CNAME .
 *.tinygo.co CNAME .
 tinyl.co CNAME .
@@ -3399,8 +3405,6 @@ bdfwpro.com CNAME .
 *.bdfwpro.com CNAME .
 beautyfitnesshealth.com CNAME .
 *.beautyfitnesshealth.com CNAME .
-bebuiltllc.com CNAME .
-*.bebuiltllc.com CNAME .
 bee1s.com CNAME .
 *.bee1s.com CNAME .
 beepurl.com CNAME .
@@ -3723,6 +3727,8 @@ links.clearlabs.com CNAME .
 *.links.clearlabs.com CNAME .
 cleverurls.com CNAME .
 *.cleverurls.com CNAME .
+click-genius.com CNAME .
+*.click-genius.com CNAME .
 click-goo.com CNAME .
 *.click-goo.com CNAME .
 clickgenee.com CNAME .
@@ -5113,6 +5119,8 @@ linkslave.com CNAME .
 *.linkslave.com CNAME .
 linksnapro.com CNAME .
 *.linksnapro.com CNAME .
+linksshortener.com CNAME .
+*.linksshortener.com CNAME .
 linkste.com CNAME .
 *.linkste.com CNAME .
 linkstracer.com CNAME .
@@ -6833,8 +6841,6 @@ tinlr.com CNAME .
 *.tinlr.com CNAME .
 tinlyy.com CNAME .
 *.tinlyy.com CNAME .
-tiny-l.com CNAME .
-*.tiny-l.com CNAME .
 tiny-links.com CNAME .
 *.tiny-links.com CNAME .
 tiny123.com CNAME .
@@ -9673,6 +9679,8 @@ captur.in CNAME .
 *.captur.in CNAME .
 ccurl.in CNAME .
 *.ccurl.in CNAME .
+cepet.in CNAME .
+*.cepet.in CNAME .
 cfre.in CNAME .
 *.cfre.in CNAME .
 cityreach.in CNAME .
@@ -11019,6 +11027,8 @@ tvdg.io CNAME .
 *.tvdg.io CNAME .
 twil.io CNAME .
 *.twil.io CNAME .
+u2l.io CNAME .
+*.u2l.io CNAME .
 ubm.io CNAME .
 *.ubm.io CNAME .
 ugp.io CNAME .
@@ -11543,6 +11553,8 @@ splk.it CNAME .
 *.splk.it CNAME .
 sprk.it CNAME .
 *.sprk.it CNAME .
+sqrl.it CNAME .
+*.sqrl.it CNAME .
 taap.it CNAME .
 *.taap.it CNAME .
 tibly.it CNAME .
@@ -15331,8 +15343,6 @@ webrc.net CNAME .
 *.webrc.net CNAME .
 go.whyd.net CNAME .
 *.go.whyd.net CNAME .
-wounofoarausooy.net CNAME .
-*.wounofoarausooy.net CNAME .
 wslat.net CNAME .
 *.wslat.net CNAME .
 wurlie.net CNAME .
@@ -15773,8 +15783,6 @@ acus.org CNAME .
 *.acus.org CNAME .
 dbf.adalaj.org CNAME .
 *.dbf.adalaj.org CNAME .
-agentassistcrm.org CNAME .
-*.agentassistcrm.org CNAME .
 albn.org CNAME .
 *.albn.org CNAME .
 alterxyz.org CNAME .
@@ -16297,8 +16305,6 @@ zi.pe CNAME .
 *.zi.pe CNAME .
 zip.pe CNAME .
 *.zip.pe CNAME .
-belink.ph CNAME .
-*.belink.ph CNAME .
 mpfi.com.ph CNAME .
 *.mpfi.com.ph CNAME .
 used.com.ph CNAME .
@@ -19205,6 +19211,8 @@ loginsaja.website CNAME .
 *.loginsaja.website CNAME .
 shortened.website CNAME .
 *.shortened.website CNAME .
+yourls.website CNAME .
+*.yourls.website CNAME .
 03.wf CNAME .
 *.03.wf CNAME .
 fff.wf CNAME .

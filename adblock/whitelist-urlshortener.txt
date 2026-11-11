@@ -4,8 +4,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 8 hours
-! Last modified: 10 Nov 2026 07:52 UTC
-! Version: 2026.1110.0752.23
+! Last modified: 11 Nov 2026 07:58 UTC
+! Version: 2026.1111.0758.12
 ! Syntax: AdBlock
 !
 @@||a.189.cn^
@@ -200,7 +200,6 @@
 @@||linkboard.com.br^
 @@||linksbr.com.br^
 @@||mpfi.com.ph^
-@@||nabio.com.br^
 @@||natura.com.vc^
 @@||onelink.com.do^
 @@||readystart.com.au^
@@ -1408,7 +1407,6 @@
 @@||aftv.news^
 @@||aftvnews.com^
 @@||agbr.ir^
-@@||agentassistcrm.org^
 @@||agileurbia.com^
 @@||agmd.win^
 @@||agoz.me^
@@ -1814,7 +1812,6 @@
 @@||beam.to^
 @@||beats.is^
 @@||beautyfitnesshealth.com^
-@@||bebuiltllc.com^
 @@||bec.ltd^
 @@||becsn.net^
 @@||bee-kz.life^
@@ -1826,7 +1823,6 @@
 @@||beeurls.com^
 @@||beingtek.com^
 @@||belink.me^
-@@||belink.ph^
 @@||belinki.cloud^
 @@||belinksnip.com^
 @@||bemygirlplease.xyz^
@@ -1949,7 +1945,6 @@
 @@||bitly.mobi^
 @@||bitly.net^
 @@||bitly.pk^
-@@||bitly.pw^
 @@||bitly.to^
 @@||bitly.ws^
 @@||bitlyli.com^
@@ -2306,6 +2301,7 @@
 @@||celfam.us^
 @@||centi.ai^
 @@||cepat.link^
+@@||cepet.in^
 @@||certifyde.app^
 @@||cesinthi.com^
 @@||ceyss.link^
@@ -2405,6 +2401,7 @@
 @@||clica.link^
 @@||clicai.xyz^
 @@||click.ps^
+@@||click-genius.com^
 @@||click-goo.com^
 @@||click-myl.ink^
 @@||click360.gr^
@@ -3614,6 +3611,7 @@
 @@||glowin88.site^
 @@||glss.co^
 @@||gma.abc^
+@@||gmh.bz^
 @@||gmj.to^
 @@||gmj.tw^
 @@||gmlft.co^
@@ -4977,6 +4975,7 @@
 @@||linksnip.me^
 @@||linksplit.io^
 @@||linksqueeze.io^
+@@||linksshortener.com^
 @@||linkstack.co^
 @@||linkste.com^
 @@||linkstracer.com^
@@ -7337,6 +7336,7 @@
 @@||shortsurl.site^
 @@||shortswitch.com^
 @@||shortsy.pro^
+@@||shortthis.app^
 @@||shortturl.co^
 @@||shortu.be^
 @@||shorturl.ac^
@@ -7764,6 +7764,7 @@
 @@||sq6.ru^
 @@||sqex.to^
 @@||sqr.co^
+@@||sqrl.it^
 @@||sqrx.io^
 @@||squ.re^
 @@||squadgen.com^
@@ -8185,7 +8186,6 @@
 @@||tiny.sm^
 @@||tiny.tw^
 @@||tiny.us^
-@@||tiny-l.com^
 @@||tiny-link.co^
 @@||tiny-link.org^
 @@||tiny-links.com^
@@ -8193,6 +8193,7 @@
 @@||tiny-url.me^
 @@||tiny123.com^
 @@||tiny1z.com^
+@@||tinyard.co^
 @@||tinyarro.ws^
 @@||tinybit.cc^
 @@||tinybro.com^
@@ -8541,6 +8542,7 @@
 @@||u-link.asia^
 @@||u0c.net^
 @@||u2.to^
+@@||u2l.io^
 @@||u2s.ca^
 @@||u2s.tn^
 @@||u301.com^
@@ -9135,6 +9137,7 @@
 @@||vqc.vn^
 @@||vqijir.com^
 @@||vqr.vc^
+@@||vrd.ci^
 @@||vretive.com^
 @@||vrnda.us^
 @@||vrv.su^
@@ -9337,7 +9340,6 @@
 @@||work.ink^
 @@||worldpay.live^
 @@||worrysolve.com^
-@@||wounofoarausooy.net^
 @@||wow.doctor^
 @@||wow.link^
 @@||wowo.kids^
@@ -9588,6 +9590,7 @@
 @@||yourls.info^
 @@||yourls.lu^
 @@||yourls.org^
+@@||yourls.website^
 @@||yourwish.es^
 @@||yous.ee^
 @@||youweepingt.org^

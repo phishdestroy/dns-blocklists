@@ -7,10 +7,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 09 Nov 2026 23:10 UTC
-# Version: 2026.1109.2310.56
+# Last modified: 11 Nov 2026 08:18 UTC
+# Version: 2026.1111.0818.41
 # Syntax: Domains (without subdomains)
-# Number of entries: 1097
+# Number of entries: 1099
 #
 one4u.0lx.net
 free.bizhat.com
@@ -434,7 +434,6 @@ fast-page.org
 fastshare.org
 fat-fly.com
 ferreracademy.com
-file.io
 fileave.com
 filebin.net
 filecache.de
@@ -747,6 +746,7 @@ nl.gp
 nl.kg
 noads.biz
 nofeeshost.com
+nokojp.shop
 novamov.com
 now.lc
 npx.de
@@ -777,6 +777,7 @@ onlinewebshop.net
 only4u.eu
 onmbl.com
 opent2.com
+opisial.com
 orgfree.com
 orgsites.com
 own-free-website.com
@@ -903,6 +904,7 @@ softr.app
 solidwebhost.com
 somee.com
 space.lc
+spaceplay.top
 sport-pro.de
 sportsontheweb.net
 spruz.com
