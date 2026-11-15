@@ -4704,6 +4704,13 @@
       }
     },
     {
+      "PK": "logistix.delivery",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.lol",
       "action": {
         "do": 0,
@@ -4978,6 +4985,13 @@
     },
     {
       "PK": "mbcherohub.club",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mchose.store",
       "action": {
         "do": 1,
         "status": 1
@@ -7813,6 +7827,13 @@
     },
     {
       "PK": "stripe.partners",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "stromae.store",
       "action": {
         "do": 1,
         "status": 1
