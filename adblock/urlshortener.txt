@@ -5,8 +5,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 8 hours
-! Last modified: 15 Nov 2026 07:56 UTC
-! Version: 2026.1115.0756.44
+! Last modified: 16 Nov 2026 08:02 UTC
+! Version: 2026.1116.0802.36
 ! Syntax: AdBlock
 ! Number of entries: 9762
 !
@@ -6766,7 +6766,6 @@
 ||rfx.today^
 ||rgd.app^
 ||rgdyk.com^
-||rgister.net^
 ||rgl.nl^
 ||rh1.eu^
 ||rhlink.com^
@@ -8540,6 +8539,7 @@
 ||u-link.asia^
 ||u0c.net^
 ||u2.to^
+||u2l.ai^
 ||u2l.io^
 ||u2s.ca^
 ||u2s.tn^
